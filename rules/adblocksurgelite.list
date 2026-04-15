@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/15 01:07:52
-#!support=5690
+#!date=2026/04/15 10:30:30
+#!support=5683
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -1430,7 +1430,6 @@
 .daraz.com
 .net.daraz.lk
 .net.daraz.pk
-.clickserve.dartsearch.net
 .dashet.com
 .gate.datacaciques.com
 .pv.datacaciques.com
@@ -1620,6 +1619,7 @@
 .dpd-express.cn
 .dpjzzgw.cn
 .drdwy.com
+.drivethelife.com
 .drokozz.club
 .dropbox.ac.cn
 .dryvoa.cn
@@ -1933,7 +1933,6 @@
 .gdobcwk.cn
 .gdtimg.com
 .gdttanb.cn
-.gdvvpxe.cn
 .geclaw.com.cn
 .log.geetest.com
 .g.gegeyingshi.com
@@ -2124,7 +2123,6 @@
 .haili-spitzer.com
 .countly-rel-usa.haimacloud.com
 .countly.haimawan.com
-.gemini-balance.haleima.cn
 .halopaper.cn
 .go.hangzhou.com.cn
 .hanlanad.com
@@ -3266,7 +3264,6 @@
 .qn-cdnfile1pcdn.msstatic.com
 .qn-livewebbs2pcdn.msstatic.com
 .mtkuailian.com.cn
-.mtqogl.cn
 .cdnovs.multiopen.cn
 .a.munters.cn
 .muoy.cn
@@ -3602,12 +3599,10 @@
 .qfh6yyag.cn
 .qfh8izze.cn
 .qfl5tjhf.cn
-.qfn3yvhf.cn
 .qfn4tjkw.cn
 .qfq4ulbo.cn
 .qfs9bkgd.cn
 .qft0ozkw.cn
-.qfv0dwis.cn
 .qfw5oook.cn
 .qg6uf.cn
 .qgkuailian.com.cn
@@ -3616,7 +3611,6 @@
 .kumcrfdk.qh229548.cn
 .jspassport.ssl.qhimg.com
 .qhonzpl.cn
-.qianchengrh.com
 .c.qiandao.cn
 .sensors-api.qiandao.cn
 .click.qianqian.com
@@ -4677,7 +4671,6 @@
 .vaxgyly.cn
 .log.vcgame.cn
 .m.vcsoat.cn
-.vendeer.vdhnmu.cn
 .ve-kuailian.com.cn
 .verifyhub.gx.cn
 .verifyhub.ha.cn
