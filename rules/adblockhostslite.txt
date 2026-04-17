@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260417171834
-# Last modified: 2026/04/17 17:18:34
-# Blocked domains: 5506
+# Version: 20260418005601
+# Last modified: 2026/04/18 00:56:01
+# Blocked domains: 5472
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -52,7 +52,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bdwmhz.120askimages.com
 0.0.0.0	js1.122cha.com
 0.0.0.0	ad.12306.cn
-0.0.0.0	123456789abc.xyz
 0.0.0.0	123cha.com
 0.0.0.0	bdad.123pan.cn
 0.0.0.0	ent1.12584.cn
@@ -338,7 +337,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	7cbwus.cn
 0.0.0.0	7dot.cn
 0.0.0.0	7kjiiu.cn
-0.0.0.0	7kuailian.com.cn
 0.0.0.0	count.7m.com.cn
 0.0.0.0	7moor.com
 0.0.0.0	cdn.7nsc.cn
@@ -570,6 +568,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	1fur2cuzsul-sdk.rum.aliyuncs.com
 0.0.0.0	1fw35mn5y7h-sdk.rum.aliyuncs.com
 0.0.0.0	1hlahoc4rpc-sdk.rum.aliyuncs.com
+0.0.0.0	ac9olrggo8-default-cn.rum.aliyuncs.com
 0.0.0.0	ad-host-backup-america.oss-us-west-1.aliyuncs.com
 0.0.0.0	ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0	ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -909,7 +908,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	baminw.com.cn
 0.0.0.0	ad.bandao.cn
 0.0.0.0	bangyoul.cn
-0.0.0.0	bank-binance.com.cn
 0.0.0.0	midinfo.baofeng.com
 0.0.0.0	barhuta.com
 0.0.0.0	baycode.cn
@@ -960,7 +958,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bhpprfk.cn
 0.0.0.0	bhyuu.com
 0.0.0.0	app-posthog.bi-sage.site
-0.0.0.0	bianfengshkoushoujbangw9.com.cn
 0.0.0.0	bianxian.com
 0.0.0.0	bianxianmao.com
 0.0.0.0	biddingx.com
@@ -1063,7 +1060,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	caomeixz7.xyz
 0.0.0.0	caonimazuzong.com
 0.0.0.0	web.capacity-whatsapp.com.cn
-0.0.0.0	carclaw.com.cn
 0.0.0.0	baidu1.cardbaobao.com
 0.0.0.0	cartx.cloud
 0.0.0.0	super.cat898.com
@@ -1112,7 +1108,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	championshipcn.hl.cn
 0.0.0.0	chance-ad.com
 0.0.0.0	chanet.com.cn
-0.0.0.0	changyi21.cn
 0.0.0.0	chatcenter.ac.cn
 0.0.0.0	chatcenter.nm.cn
 0.0.0.0	chatcenter.sn.cn
@@ -1178,7 +1173,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.claiks.com
 0.0.0.0	clarins.com.cn
 0.0.0.0	clawaegis.com.cn
-0.0.0.0	clawgo.com.cn
 0.0.0.0	clawmemory.com.cn
 0.0.0.0	cleartone.club
 0.0.0.0	log-api.cli.im
@@ -1202,7 +1196,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ggc.cmvideo.cn
 0.0.0.0	ggx.cmvideo.cn
 0.0.0.0	cn-oyi-okx.com.cn
-0.0.0.0	cn-safew-apps.com.cn
 0.0.0.0	cn-safew-safew.com.cn
 0.0.0.0	cn-wps-zh.com.cn
 0.0.0.0	ad-api.cnblogs.com
@@ -1261,7 +1254,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	logreport-global-dual.coolzcloud.com
 0.0.0.0	wslog-global-dual.coolzcloud.com
 0.0.0.0	bdu1.coozhi.cn
-0.0.0.0	count-ledger.online
 0.0.0.0	cp-openclaw.com.cn
 0.0.0.0	cp7iys8fp.com
 0.0.0.0	cpanclean.cn
@@ -1293,7 +1285,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cuqpi.cn
 0.0.0.0	web.customer-whatsapp.com.cn
 0.0.0.0	cvs0sghj.cn
-0.0.0.0	cvv-kuailian.com.cn
 0.0.0.0	z1.cwbaike.com
 0.0.0.0	cx0001.cn
 0.0.0.0	cxkuailian.com.cn
@@ -1423,7 +1414,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dfz-telegram.com.cn
 0.0.0.0	dg-kuailian.com.cn
 0.0.0.0	dg186.cn
-0.0.0.0	dgrj.com.cn
 0.0.0.0	d.dgzj.com
 0.0.0.0	ad.dhgate.com
 0.0.0.0	d1.dhgate.com
@@ -1811,7 +1801,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	gdobcwk.cn
 0.0.0.0	gdtimg.com
 0.0.0.0	gdttanb.cn
-0.0.0.0	geclaw.com.cn
 0.0.0.0	log.geetest.com
 0.0.0.0	g.gegeyingshi.com
 0.0.0.0	web.genarupi-whatsapp.com.cn
@@ -1893,7 +1882,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wpubzc.gnnja.cn
 0.0.0.0	go2yd.com
 0.0.0.0	godloveme.cn
-0.0.0.0	gods-binance.com.cn
 0.0.0.0	goforandroid.com
 0.0.0.0	gojunkclean.cn
 0.0.0.0	prom.gome.com.cn
@@ -1903,10 +1891,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	googgle-chrrome.hl.cn
 0.0.0.0	google-analytics-cn.com
 0.0.0.0	google-analytics.com
-0.0.0.0	google-ccc.hl.cn
 0.0.0.0	google-ch-chrome.com.cn
 0.0.0.0	google-chrrome-zh.hl.cn
-0.0.0.0	google-en-chrome.com.cn
 0.0.0.0	google-google-google.com.cn
 0.0.0.0	google-ji.com.cn
 0.0.0.0	google-network.com
@@ -2130,6 +2116,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	hiido.com
 0.0.0.0	analytics.shop.hisense.com
 0.0.0.0	api-4know-em.hismarttv.com
+0.0.0.0	api-4know-eu.hismarttv.com
 0.0.0.0	api-bos.hismarttv.com
 0.0.0.0	api-cloudfalcon.hismarttv.com
 0.0.0.0	api-dynhost.hismarttv.com
@@ -2253,7 +2240,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	track.hujiang.com
 0.0.0.0	trackcommon.hujiang.com
 0.0.0.0	u8.hujiang.com
-0.0.0.0	hukuailian.com.cn
 0.0.0.0	hulichuang.mobi
 0.0.0.0	log.hunantv.com
 0.0.0.0	log.v2.hunantv.com
@@ -2648,10 +2634,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	kuailian-tv.com.cn
 0.0.0.0	kuailian-up.com.cn
 0.0.0.0	kuailian-yi.com.cn
-0.0.0.0	kuailianai.hl.cn
 0.0.0.0	kuailiancff-pcc.com.cn
 0.0.0.0	kuailiandss.com.cn
-0.0.0.0	kuailianen.hl.cn
 0.0.0.0	kuailianer.hl.cn
 0.0.0.0	kuailianlinker.com.cn
 0.0.0.0	kuailianstack.com.cn
@@ -2715,7 +2699,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	update.mobile.kugou.com
 0.0.0.0	webcollects.kugou.com
 0.0.0.0	kuheju.com
-0.0.0.0	msstatic.com.gslb.kuiniuca.com
 0.0.0.0	h1.kukuw.com
 0.0.0.0	img.adnyg.com.w.kunlungr.com
 0.0.0.0	qcloud-sg-datareceiver.kurogame.xyz
@@ -3751,7 +3734,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	info.revvity.cn
 0.0.0.0	track.msadcenter.rfjq.com
 0.0.0.0	rhinogo.cn
-0.0.0.0	rhoffice.com.cn
 0.0.0.0	richh.cn
 0.0.0.0	ad.richmob.cn
 0.0.0.0	riveralydia.shop
@@ -3889,7 +3871,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sigmob.com
 0.0.0.0	smetrics.marketing.signify.com.cn
 0.0.0.0	simicloud.com
-0.0.0.0	simple-tiktok.xyz
 0.0.0.0	adblock.sina.cn
 0.0.0.0	adimg.mobile.sina.cn
 0.0.0.0	cm.dmp.sina.cn
@@ -3994,6 +3975,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ib.snssdk.com
 0.0.0.0	log.snssdk.com
 0.0.0.0	log-hl.snssdk.com
+0.0.0.0	log-lf.snssdk.com
 0.0.0.0	log-lq.snssdk.com
 0.0.0.0	mcs.snssdk.com
 0.0.0.0	mercury-sdk.snssdk.com
@@ -4301,7 +4283,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tnjvz.cn
 0.0.0.0	pxx.tnklrs.cn
 0.0.0.0	tnze.cn
-0.0.0.0	to-chrome.com.cn
 0.0.0.0	todesk-qq.com.cn
 0.0.0.0	todesk-zh.hl.cn
 0.0.0.0	todesk.ac.cn
@@ -4378,7 +4359,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	livetech.shopee.vn.txlivecdn.com
 0.0.0.0	m.txtxr.com
 0.0.0.0	u.txuesoft.cn
-0.0.0.0	ty.cn
 0.0.0.0	tydouke.com
 0.0.0.0	tzlit.cn
 0.0.0.0	stat.u.sb
@@ -4464,10 +4444,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	urbanfind.club
 0.0.0.0	uri6.com
 0.0.0.0	urlqh.cn
-0.0.0.0	usdtchongzhi.com.cn
-0.0.0.0	usdtduihuan.com.cn
-0.0.0.0	usdtduoshaormb.com.cn
-0.0.0.0	usdtgfwangzhan.com.cn
 0.0.0.0	usercenter.ha.cn
 0.0.0.0	usercenter.he.cn
 0.0.0.0	usercenter.nx.cn
@@ -4683,6 +4659,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sca-onrt-stsdk.vivoglobal.com
 0.0.0.0	sca-ort-stsdk.vivoglobal.com
 0.0.0.0	sca-p.vivoglobal.com
+0.0.0.0	sca-pnrt-stsdk.vivoglobal.com
 0.0.0.0	sca-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	sca-st-sl.vivoglobal.com
 0.0.0.0	sca-stsdk.vivoglobal.com
@@ -4755,7 +4732,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	vx-kuailian.com.cn
 0.0.0.0	vx2tbw9xin.com
 0.0.0.0	vxhsj.cn
-0.0.0.0	vxkuailian.com.cn
 0.0.0.0	vy-google.com.cn
 0.0.0.0	vy-kuailian.com.cn
 0.0.0.0	vyye.cn
@@ -4799,7 +4775,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zgzxm.weathercn.com
 0.0.0.0	zgzxs.weathercn.com
 0.0.0.0	hk.web-mobile-whatsapp.com.cn
-0.0.0.0	webbkuailian.com.cn
 0.0.0.0	webdissector.com
 0.0.0.0	webex.bj.cn
 0.0.0.0	log.webnovel.com
@@ -4905,23 +4880,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	wumii.com
 0.0.0.0	content.wuxibiologics.com
 0.0.0.0	wva-telegram.com.cn
-0.0.0.0	ww-officc-wps.com.cn
 0.0.0.0	wwads.cn
 0.0.0.0	wws-google-app.com.cn
 0.0.0.0	vhs.wwstat.com
-0.0.0.0	www-chromegoogle.com.cn
-0.0.0.0	www-chromegooglee.com.cn
 0.0.0.0	www-chromeguge.com.cn
 0.0.0.0	www-cn-google.org.cn
 0.0.0.0	www-google.cn
 0.0.0.0	www-google.org.cn
-0.0.0.0	www-googlechrom.com.cn
-0.0.0.0	www-officc-wps.com.cn
-0.0.0.0	www-offiic-wps.com.cn
 0.0.0.0	www-qishiu.com.cn
 0.0.0.0	www-qishul.org.cn
 0.0.0.0	www-safew-com.com.cn
-0.0.0.0	www-safews.com.cn
 0.0.0.0	1500020991.vodplayer.wxamedia.com
 0.0.0.0	1500022744.vodplayer.wxamedia.com
 0.0.0.0	1500026601.vodplayer.wxamedia.com
@@ -4954,7 +4922,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sensors.h5.xed.plus
 0.0.0.0	xegnfwkju.com
 0.0.0.0	xerhibx.cn
-0.0.0.0	xfltd.hl.cn
 0.0.0.0	xftsjv.top
 0.0.0.0	dt.xfyun.cn
 0.0.0.0	pics.xgo-img.com.cn
@@ -5379,7 +5346,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zgisp.net
 0.0.0.0	yin1.zgpingshu.com
 0.0.0.0	zh-appd-google.com.cn
-0.0.0.0	zh-cn-safew.com.cn
 0.0.0.0	zh-fifa-football-live.com
 0.0.0.0	zh-google-zh.hl.cn
 0.0.0.0	zh-googlle-chrome.hl.cn
