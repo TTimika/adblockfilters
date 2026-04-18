@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/18 00:56:01
-#!support=5472
+#!date=2026/04/18 10:24:01
+#!support=5467
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -1720,7 +1720,6 @@ DOMAIN-SUFFIX,bro.flyme.cn
 DOMAIN-SUFFIX,t-e.flyme.cn
 DOMAIN-SUFFIX,t-flow.flyme.cn
 DOMAIN-SUFFIX,log-auth.flysleep.cn
-DOMAIN-SUFFIX,flyye.cn
 DOMAIN-SUFFIX,www.fm120.com
 DOMAIN-SUFFIX,accoun.fnmgr.cn
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
@@ -1799,7 +1798,6 @@ DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getmyip.top
 DOMAIN-SUFFIX,getui.cn
 DOMAIN-SUFFIX,getui.com
-DOMAIN-SUFFIX,gf-telegram.com.cn
 DOMAIN-SUFFIX,gfxjcgb.cn
 DOMAIN-SUFFIX,safebrowsing.urlsec.gg.com
 DOMAIN-SUFFIX,ggzh-google.com.cn
@@ -1834,7 +1832,6 @@ DOMAIN-SUFFIX,sdk-cache.video.ptqy.gitv.tv
 DOMAIN-SUFFIX,sdk.ptqy.gitv.tv
 DOMAIN-SUFFIX,static.ptqy.gitv.tv
 DOMAIN-SUFFIX,time.video.ptqy.gitv.tv
-DOMAIN-SUFFIX,giuasyb.cn
 DOMAIN-SUFFIX,50m.gkcyc.com
 DOMAIN-SUFFIX,gl0r6d2uyy.com
 DOMAIN-SUFFIX,media.globalsign.com
@@ -3295,7 +3292,6 @@ DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao2.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao3.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao4.com
 DOMAIN-SUFFIX,panoeye.com.cn
-DOMAIN-SUFFIX,parking-pcnms.cn
 DOMAIN-SUFFIX,partnerboost.com
 DOMAIN-SUFFIX,passionsex.vip
 DOMAIN-SUFFIX,bt1.patexplorer.com
@@ -5100,7 +5096,6 @@ DOMAIN-SUFFIX,yahoo.gd.cn
 DOMAIN-SUFFIX,yahoo.hb.cn
 DOMAIN-SUFFIX,yahoo.hk.cn
 DOMAIN-SUFFIX,yahoo.tj.cn
-DOMAIN-SUFFIX,yaioo.cn
 DOMAIN-SUFFIX,yangot.com
 DOMAIN-SUFFIX,img.yangshengtang123.com
 DOMAIN-SUFFIX,ca.yangshengtv.com
