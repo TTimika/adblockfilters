@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260420004039
-# Last modified: 2026/04/20 00:40:39
-# Blocked domains: 5377
+# Version: 20260420103837
+# Last modified: 2026/04/20 10:38:37
+# Blocked domains: 5355
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -483,8 +483,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ajdyga.cn
 0.0.0.0	ajiang.net
 0.0.0.0	ajkuailian.com.cn
-0.0.0.0	ak03150hou.com
-0.0.0.0	ak03211hou.com
 0.0.0.0	smetrics.akamai.com
 0.0.0.0	as-datareceiver.aki-game.net
 0.0.0.0	eu-datareceiver.aki-game.net
@@ -1481,7 +1479,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	drdwy.com
 0.0.0.0	drivethelife.com
 0.0.0.0	drokozz.club
-0.0.0.0	dryvoa.cn
 0.0.0.0	dspunion.com
 0.0.0.0	analytics.dsyqt.com
 0.0.0.0	dtsxn.cn
@@ -1525,7 +1522,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.dyjqd.com
 0.0.0.0	dykuailian.com.cn
 0.0.0.0	dykuailian.hl.cn
-0.0.0.0	dykyvy.cn
 0.0.0.0	by.dyq.cn
 0.0.0.0	dytuj6zs26.com
 0.0.0.0	dz6xqe19d2.com
@@ -2387,7 +2383,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ixjtpbj.cn
 0.0.0.0	ixkuailian.com.cn
 0.0.0.0	izgl.cn
-0.0.0.0	izjmlg.cn
 0.0.0.0	adapi.izuiyou.com
 0.0.0.0	adstat.izuiyou.com
 0.0.0.0	j3n6x.co
@@ -2474,7 +2469,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jspcdn.cn
 0.0.0.0	fpb1.jsq886.com
 0.0.0.0	jszctech.com
-0.0.0.0	jtvwbp.cn
 0.0.0.0	jukuailian.hl.cn
 0.0.0.0	junshi8181.com
 0.0.0.0	y1.junshitt.com
@@ -2518,7 +2512,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.kioxia.com.cn
 0.0.0.0	kissfang.cn
 0.0.0.0	kivo.fun
-0.0.0.0	kkbnzz.cn
 0.0.0.0	adl.kkguan.com
 0.0.0.0	houyi.kkmh.com
 0.0.0.0	logsdk.klingai.com
@@ -3079,9 +3072,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	fp.nanrenwo.net
 0.0.0.0	nasimobi.com
 0.0.0.0	dl.natgo.cn
-0.0.0.0	nbehzi.cn
 0.0.0.0	nbhpqn.cn
-0.0.0.0	ndatzo.cn
 0.0.0.0	ndkuailian.com.cn
 0.0.0.0	ne-ss-google.com.cn
 0.0.0.0	sdk.stat.foreign.nearme.com.cn
@@ -3125,7 +3116,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	nlzyp.cn
 0.0.0.0	nm-kuailian.com.cn
 0.0.0.0	nmnqywf.cn
-0.0.0.0	nmulwz.cn
 0.0.0.0	nnocsin.cn
 0.0.0.0	nokuailian.com.cn
 0.0.0.0	nouvelles247.com
@@ -3262,11 +3252,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	pfdth.cn
 0.0.0.0	pfkuailian.com.cn
 0.0.0.0	pfqwbqs.cn
-0.0.0.0	pfvufy.cn
 0.0.0.0	vendhelpuous.pgvjmp.cn
 0.0.0.0	smetrics.marketing.lighting.philips.com.cn
 0.0.0.0	f1.pig66.com
-0.0.0.0	piln.cn
 0.0.0.0	web.pimarolu-whatsapp.com.cn
 0.0.0.0	pincai.com
 0.0.0.0	dspsdk.pinduoduo.com
@@ -3278,7 +3266,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	img50.pingguolv.com
 0.0.0.0	api.pingstart.com
 0.0.0.0	bd1.pipaw.com
-0.0.0.0	pisauc.cn
 0.0.0.0	stat2.pixpin.cn
 0.0.0.0	pl53l7tyw.com
 0.0.0.0	placidocn.com
@@ -3304,7 +3291,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	de.as.pptv.com
 0.0.0.0	jp.as.pptv.com
 0.0.0.0	pp2.pptv.com
-0.0.0.0	pqav.cn
 0.0.0.0	pqjprom.cn
 0.0.0.0	pqkuailian.hl.cn
 0.0.0.0	prasquinor.jp
@@ -3346,12 +3332,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	qfcdgy.cn
 0.0.0.0	qfe3hfbo.cn
 0.0.0.0	qff3kvis.cn
-0.0.0.0	qfg8gvgd.cn
 0.0.0.0	qfg8oksb.cn
 0.0.0.0	qfh5tgyv.cn
 0.0.0.0	qfh8izze.cn
 0.0.0.0	qfl5tjhf.cn
-0.0.0.0	qfn4tjkw.cn
 0.0.0.0	qfq4ulbo.cn
 0.0.0.0	qfs9bkgd.cn
 0.0.0.0	qfw5oook.cn
@@ -3657,7 +3641,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tatracker-us.rivergame.net
 0.0.0.0	rj-kuailian.com.cn
 0.0.0.0	rkcfmfm97.com
-0.0.0.0	rkjgfh.cn
 0.0.0.0	rkzby.cn
 0.0.0.0	rl1vypwyd2.com
 0.0.0.0	rljjt.cn
@@ -3674,7 +3657,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	rp-google.com.cn
 0.0.0.0	rpahyhn.cn
 0.0.0.0	rskuailian.hl.cn
-0.0.0.0	rsoz.cn
+0.0.0.0	jo088.rsoz.cn
 0.0.0.0	rsvqlz.cn
 0.0.0.0	rt-quickq.hl.cn
 0.0.0.0	rtbasia.com
@@ -4125,7 +4108,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tcdvvv.top
 0.0.0.0	tchkcc.cn
 0.0.0.0	sg.tdatamaster.com
-0.0.0.0	tdffk.cn
 0.0.0.0	site.tdk.cn
 0.0.0.0	tracking.tdk.cn
 0.0.0.0	teamsapp.com.cn
@@ -4818,7 +4800,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	x-steam.com
 0.0.0.0	x-telegram.com.cn
 0.0.0.0	x4hu95mh0t.com
-0.0.0.0	xaqnbj.cn
 0.0.0.0	www.xaqsl.com
 0.0.0.0	xavierbrooks.shop
 0.0.0.0	xazbts.com
@@ -4833,7 +4814,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zio.xcar.com.cn
 0.0.0.0	xcvkuailianss.com.cn
 0.0.0.0	analytics1.xdiarys.com
-0.0.0.0	xdoriq.cn
 0.0.0.0	xdrig.com
 0.0.0.0	sensors.h5.xed.plus
 0.0.0.0	xegnfwkju.com
@@ -5044,8 +5024,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	imgapp.yeyou.com
 0.0.0.0	news.yeyou.com
 0.0.0.0	ue.yeyoucdn.com
-0.0.0.0	yflieu.cn
-0.0.0.0	yfminw.cn
 0.0.0.0	yguuab.cn
 0.0.0.0	ygwdai.cn
 0.0.0.0	ygxgk.cn
