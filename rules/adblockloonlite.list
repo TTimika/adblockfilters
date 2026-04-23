@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/23 01:00:50
-#!support=5282
+#!date=2026/04/23 10:35:25
+#!support=5281
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -2705,7 +2705,6 @@ DOMAIN-SUFFIX,linkcenter.sx.cn
 DOMAIN-SUFFIX,ads.linkedin.cn
 DOMAIN-SUFFIX,linkhaitao.com
 DOMAIN-SUFFIX,plausible.lipux.cn
-DOMAIN-SUFFIX,lisiwen3.cn
 DOMAIN-SUFFIX,litchiads.com
 DOMAIN-SUFFIX,hw-p2p-pull.live-voip.com
 DOMAIN-SUFFIX,tx-p2p-pull.live-voip.com
