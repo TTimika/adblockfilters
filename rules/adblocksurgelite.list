@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/23 17:29:07
-#!support=5281
+#!date=2026/04/24 01:21:04
+#!support=5257
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -374,10 +374,8 @@
 .acgshenshicha.cn
 .passport.acla.org.cn
 .ads.activepower.net
-.ad-haiwang.hl.cn
 .ad-plus.cn
 .ad-scope.com.cn
-.ad-wps-wps.com.cn
 .ad7.com
 .adbana.com
 .adcome.cn
@@ -442,11 +440,8 @@
 .tracking.agora.io
 .webcollector-rtm.agora.io
 .ahov1.top
-.ai-google-com.hl.cn
 .ai-sogou.com.cn
-.ai-sougou-com.hl.cn
 .ai-telegram-telegram.com.cn
-.ai-youdao-com.hl.cn
 .brc.aigrammar.net
 .brc2.aigrammar.net
 .aihaoduo.cn
@@ -464,7 +459,6 @@
 .aiwei365.net
 .dmm.aizhan.com
 .aizipai.cn
-.aj-youdao-com.hl.cn
 .ajdyga.cn
 .ajiang.net
 .ajkuailian.com.cn
@@ -531,6 +525,7 @@
 .img.alimama.cn
 .acookie.alimama.com
 .p.alimama.com
+.static.alimama.com
 .openmonitor.alipay-eco.com
 .amdc.alipay.com
 .collect.alipay.com
@@ -644,7 +639,6 @@
 .wxhawk.aoscdn.com
 .log-pub-hk.aoshitang.com
 .apd-todesk.com.cn
-.apd-zoom-com.hl.cn
 .apenclaw.com.cn
 .adx.apicgate.com
 .us-behavior.apitd.net
@@ -1377,14 +1371,11 @@
 .ad.dhgate.com
 .d1.dhgate.com
 .dhl-sv.com
-.dhlcm.eu.cc
 .dhlkw.eu.cc
 .dhloc.eu.cc
 .dhloo.eu.cc
 .dhloz.eu.cc
 .dhlxa.eu.cc
-.dhlxc.eu.cc
-.dhlxw.eu.cc
 .dianru.com
 .digitalfiles.org
 .bea-s.dinghuoche.com
@@ -1576,7 +1567,6 @@
 .eoyqzzk.cn
 .eqqi.cn
 .m.ercos.cn
-.erish.xyz
 .esports.hl.cn
 .ethan.wang
 .etitgo.com
@@ -1637,7 +1627,6 @@
 .img.ferlie.net
 .ks.ferlytc.com
 .ffmehcg.cn
-.fg-chrome.com.cn
 .21.fh21static.com
 .fhitagd.cn
 .fhkuailian.com.cn
@@ -1737,7 +1726,6 @@
 .safebrowsing.urlsec.gg.com
 .ggzh-google.com.cn
 .shqdown.ggzuhao.com
-.ghkuailian.com.cn
 .ghsnhjk.cn
 .ad.partner.gifshow.com
 .gdfp.gifshow.com
@@ -2230,7 +2218,6 @@
 .piccdn.igetget.com
 .seeder.igetget.com
 .ihclam.cn
-.ihkuailian.com.cn
 .fpbone.ihowguide.com
 .appadapi.ihuman.com
 .iimedia.cn
@@ -2279,7 +2266,6 @@
 .dogo.intel.cn
 .smetrics.marketing.interact-lighting.com.cn
 .inveno.com
-.io-googlse.com.cn
 .ioiksw.cn
 .ip193.cn
 .c81.ipanocloud.com
@@ -2515,7 +2501,6 @@
 .hdns.ksyun.com
 .c.kuaiduizuoye.com
 .kuailian-accs.com.cn
-.kuailian-ttr.com.cn
 .kuailiancff-pcc.com.cn
 .kuaishang.cn
 .kuaishang.com.cn
@@ -2636,7 +2621,6 @@
 .cc.lbesec.com
 .lbprjdi.cn
 .kdbgqvu.lbye3zc.cn
-.lc-google.com.cn
 .lccfjszp.cn
 .ld-kuailian.com.cn
 .test-perfops.ldgslb.com
@@ -3170,8 +3154,6 @@
 .counter.pcauto.com.cn
 .pcc-kuailiansscc.com.cn
 .pccleaner.cn
-.pce4-kuailian.com.cn
-.pce5-kuailian.com.cn
 .count5.pconline.com.cn
 .ivy.pconline.com.cn
 .pcpop.com
@@ -3597,7 +3579,6 @@
 .stats.rong-edge.com
 .logcollection.ronghub.com
 .stats.cn.ronghub.com
-.rp-google.com.cn
 .rpahyhn.cn
 .rskuailian.hl.cn
 .rsvqlz.cn
@@ -3625,7 +3606,6 @@
 .404.safedog.cn
 .safewcm.org.cn
 .safewco.org.cn
-.safewqq.com.cn
 .safewzz.com.cn
 .sagetrc.com
 .saitef.cn
@@ -4077,7 +4057,6 @@
 .tengfeidn.cn
 .tepusi888.cn
 .answers.teradata.com.cn
-.tg-chrome.com.cn
 .tg-kuailian.com.cn
 .tgfyq.cn
 .th7.cn
@@ -4550,7 +4529,6 @@
 .hvkfmk.vrkxqfrx.cn
 .vrrm.cn
 .n.vs108.com
-.vt-google.com.cn
 .vultenok.net
 .vungle.cn
 .vvcdh.com.cn
@@ -4561,7 +4539,6 @@
 .vx-kuailian.com.cn
 .vx2tbw9xin.com
 .vxhsj.cn
-.vy-google.com.cn
 .vy-kuailian.com.cn
 .vyye.cn
 .vzvvifw.cn
@@ -4699,7 +4676,6 @@
 .wsds.cn
 .mlog.wangsu.com.wswebcdn.com
 .cdn-ad.wtzw.com
-.wu-google.com.cn
 .wukongtongji.com
 .wumii.cn
 .wumii.com

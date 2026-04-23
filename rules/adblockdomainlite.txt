@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260423172907
-! Last modified: 2026/04/23 17:29:07
-! Blocked domains: 5281
+! Version: 20260424012104
+! Last modified: 2026/04/24 01:21:04
+! Blocked domains: 5257
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -367,10 +367,8 @@ jscode.acg68.com
 acgshenshicha.cn
 passport.acla.org.cn
 ads.activepower.net
-ad-haiwang.hl.cn
 ad-plus.cn
 ad-scope.com.cn
-ad-wps-wps.com.cn
 ad7.com
 adbana.com
 adcome.cn
@@ -435,11 +433,8 @@ statscollector-1-north-america.agora.io
 tracking.agora.io
 webcollector-rtm.agora.io
 ahov1.top
-ai-google-com.hl.cn
 ai-sogou.com.cn
-ai-sougou-com.hl.cn
 ai-telegram-telegram.com.cn
-ai-youdao-com.hl.cn
 brc.aigrammar.net
 brc2.aigrammar.net
 aihaoduo.cn
@@ -457,7 +452,6 @@ aiwanma99.com
 aiwei365.net
 dmm.aizhan.com
 aizipai.cn
-aj-youdao-com.hl.cn
 ajdyga.cn
 ajiang.net
 ajkuailian.com.cn
@@ -524,6 +518,7 @@ cb.alimama.cn
 img.alimama.cn
 acookie.alimama.com
 p.alimama.com
+static.alimama.com
 openmonitor.alipay-eco.com
 amdc.alipay.com
 collect.alipay.com
@@ -637,7 +632,6 @@ aoqinglv.cn
 wxhawk.aoscdn.com
 log-pub-hk.aoshitang.com
 apd-todesk.com.cn
-apd-zoom-com.hl.cn
 apenclaw.com.cn
 adx.apicgate.com
 us-behavior.apitd.net
@@ -1370,14 +1364,11 @@ d.dgzj.com
 ad.dhgate.com
 d1.dhgate.com
 dhl-sv.com
-dhlcm.eu.cc
 dhlkw.eu.cc
 dhloc.eu.cc
 dhloo.eu.cc
 dhloz.eu.cc
 dhlxa.eu.cc
-dhlxc.eu.cc
-dhlxw.eu.cc
 dianru.com
 digitalfiles.org
 bea-s.dinghuoche.com
@@ -1569,7 +1560,6 @@ eobuwieplonline.com
 eoyqzzk.cn
 eqqi.cn
 m.ercos.cn
-erish.xyz
 esports.hl.cn
 ethan.wang
 etitgo.com
@@ -1630,7 +1620,6 @@ fenxi.com
 img.ferlie.net
 ks.ferlytc.com
 ffmehcg.cn
-fg-chrome.com.cn
 21.fh21static.com
 fhitagd.cn
 fhkuailian.com.cn
@@ -1730,7 +1719,6 @@ gfxjcgb.cn
 safebrowsing.urlsec.gg.com
 ggzh-google.com.cn
 shqdown.ggzuhao.com
-ghkuailian.com.cn
 ghsnhjk.cn
 ad.partner.gifshow.com
 gdfp.gifshow.com
@@ -2223,7 +2211,6 @@ entree.igetget.com
 piccdn.igetget.com
 seeder.igetget.com
 ihclam.cn
-ihkuailian.com.cn
 fpbone.ihowguide.com
 appadapi.ihuman.com
 iimedia.cn
@@ -2272,7 +2259,6 @@ cane.intel.cn
 dogo.intel.cn
 smetrics.marketing.interact-lighting.com.cn
 inveno.com
-io-googlse.com.cn
 ioiksw.cn
 ip193.cn
 c81.ipanocloud.com
@@ -2508,7 +2494,6 @@ api.kingdata.ksyun.com
 hdns.ksyun.com
 c.kuaiduizuoye.com
 kuailian-accs.com.cn
-kuailian-ttr.com.cn
 kuailiancff-pcc.com.cn
 kuaishang.cn
 kuaishang.com.cn
@@ -2629,7 +2614,6 @@ matomo.lb-link.cn
 cc.lbesec.com
 lbprjdi.cn
 kdbgqvu.lbye3zc.cn
-lc-google.com.cn
 lccfjszp.cn
 ld-kuailian.com.cn
 test-perfops.ldgslb.com
@@ -3163,8 +3147,6 @@ count.pcauto.com.cn
 counter.pcauto.com.cn
 pcc-kuailiansscc.com.cn
 pccleaner.cn
-pce4-kuailian.com.cn
-pce5-kuailian.com.cn
 count5.pconline.com.cn
 ivy.pconline.com.cn
 pcpop.com
@@ -3590,7 +3572,6 @@ dualstack-collection.rong-edge.com
 stats.rong-edge.com
 logcollection.ronghub.com
 stats.cn.ronghub.com
-rp-google.com.cn
 rpahyhn.cn
 rskuailian.hl.cn
 rsvqlz.cn
@@ -3618,7 +3599,6 @@ sadrfv.cn
 404.safedog.cn
 safewcm.org.cn
 safewco.org.cn
-safewqq.com.cn
 safewzz.com.cn
 sagetrc.com
 saitef.cn
@@ -4070,7 +4050,6 @@ report.tencentmusic.com
 tengfeidn.cn
 tepusi888.cn
 answers.teradata.com.cn
-tg-chrome.com.cn
 tg-kuailian.com.cn
 tgfyq.cn
 th7.cn
@@ -4543,7 +4522,6 @@ vrbrothers.com
 hvkfmk.vrkxqfrx.cn
 vrrm.cn
 n.vs108.com
-vt-google.com.cn
 vultenok.net
 vungle.cn
 vvcdh.com.cn
@@ -4554,7 +4532,6 @@ vwiy.cn
 vx-kuailian.com.cn
 vx2tbw9xin.com
 vxhsj.cn
-vy-google.com.cn
 vy-kuailian.com.cn
 vyye.cn
 vzvvifw.cn
@@ -4692,7 +4669,6 @@ wsacjdg.cn
 wsds.cn
 mlog.wangsu.com.wswebcdn.com
 cdn-ad.wtzw.com
-wu-google.com.cn
 wukongtongji.com
 wumii.cn
 wumii.com
