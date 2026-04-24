@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/24 01:21:04
-#!support=5257
+#!date=2026/04/24 10:36:20
+#!support=5254
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -311,7 +311,6 @@ DOMAIN-SUFFIX,6v4.work
 DOMAIN-SUFFIX,6v6.work
 DOMAIN-SUFFIX,bdcdncnc.inter.71edge.com
 DOMAIN-SUFFIX,73336zubo25326.com
-DOMAIN-SUFFIX,76q9blknlx3z6mn.s3-website-us-east-1.amazonaws.com
 DOMAIN-SUFFIX,1.78500.cn
 DOMAIN-SUFFIX,79n4cubmu8.com
 DOMAIN-SUFFIX,7car.com.cn
@@ -814,6 +813,7 @@ DOMAIN-SUFFIX,paimgcdn-feed.baidu.com
 DOMAIN-SUFFIX,pimlog.baidu.com
 DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,publish-pic-cpu.baidu.com
 DOMAIN-SUFFIX,pups.baidu.com
 DOMAIN-SUFFIX,push.zhanzhang.baidu.com
 DOMAIN-SUFFIX,qapm.baidu.com
@@ -4217,7 +4217,6 @@ DOMAIN-SUFFIX,m.uczzd.cn
 DOMAIN-SUFFIX,udeztrb.cn
 DOMAIN-SUFFIX,udrig.com
 DOMAIN-SUFFIX,uebabuf.cn
-DOMAIN-SUFFIX,www.ufh-whatsapp.hl.cn
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,uhabo.com
 DOMAIN-SUFFIX,bdjs.uimg.cn
@@ -4694,7 +4693,6 @@ DOMAIN-SUFFIX,wy213.com
 DOMAIN-SUFFIX,wyvw.cn
 DOMAIN-SUFFIX,a.wzu.com
 DOMAIN-SUFFIX,x-steam.com
-DOMAIN-SUFFIX,x-telegram.com.cn
 DOMAIN-SUFFIX,x4hu95mh0t.com
 DOMAIN-SUFFIX,www.xaqsl.com
 DOMAIN-SUFFIX,xavierbrooks.shop
@@ -4974,7 +4972,6 @@ DOMAIN-SUFFIX,rodeoconfig.yodo1api.com
 DOMAIN-SUFFIX,sensors.yodo1api.com
 DOMAIN-SUFFIX,uc-ap.yodo1api.com
 DOMAIN-SUFFIX,sdk.yolanda.hk
-DOMAIN-SUFFIX,yongtai.cn
 DOMAIN-SUFFIX,sxgahmjk.yottnats.cn
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,ad-sdk-config.youdao.com

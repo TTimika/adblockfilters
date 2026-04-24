@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list
-# Version: 20260424012104
-# Last modified: 2026/04/24 01:21:04
-# Blocked domains: 5257
+# Version: 20260424103620
+# Last modified: 2026/04/24 10:36:20
+# Blocked domains: 5254
 #
 [Rule]
 DOMAIN-SUFFIX,kwflvcdn.000dn.com,REJECT-DROP
@@ -308,7 +308,6 @@ DOMAIN-SUFFIX,6v4.work,REJECT-DROP
 DOMAIN-SUFFIX,6v6.work,REJECT-DROP
 DOMAIN-SUFFIX,bdcdncnc.inter.71edge.com,REJECT-DROP
 DOMAIN-SUFFIX,73336zubo25326.com,REJECT-DROP
-DOMAIN-SUFFIX,76q9blknlx3z6mn.s3-website-us-east-1.amazonaws.com,REJECT-DROP
 DOMAIN-SUFFIX,1.78500.cn,REJECT-DROP
 DOMAIN-SUFFIX,79n4cubmu8.com,REJECT-DROP
 DOMAIN-SUFFIX,7car.com.cn,REJECT-DROP
@@ -811,6 +810,7 @@ DOMAIN-SUFFIX,paimgcdn-feed.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,pimlog.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,plugin.mobopay.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,pos.baidu.com,REJECT-DROP
+DOMAIN-SUFFIX,publish-pic-cpu.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,pups.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,push.zhanzhang.baidu.com,REJECT-DROP
 DOMAIN-SUFFIX,qapm.baidu.com,REJECT-DROP
@@ -4214,7 +4214,6 @@ DOMAIN-SUFFIX,m.uczzd.cn,REJECT-DROP
 DOMAIN-SUFFIX,udeztrb.cn,REJECT-DROP
 DOMAIN-SUFFIX,udrig.com,REJECT-DROP
 DOMAIN-SUFFIX,uebabuf.cn,REJECT-DROP
-DOMAIN-SUFFIX,www.ufh-whatsapp.hl.cn,REJECT-DROP
 DOMAIN-SUFFIX,ugdtimg.com,REJECT-DROP
 DOMAIN-SUFFIX,uhabo.com,REJECT-DROP
 DOMAIN-SUFFIX,bdjs.uimg.cn,REJECT-DROP
@@ -4691,7 +4690,6 @@ DOMAIN-SUFFIX,wy213.com,REJECT-DROP
 DOMAIN-SUFFIX,wyvw.cn,REJECT-DROP
 DOMAIN-SUFFIX,a.wzu.com,REJECT-DROP
 DOMAIN-SUFFIX,x-steam.com,REJECT-DROP
-DOMAIN-SUFFIX,x-telegram.com.cn,REJECT-DROP
 DOMAIN-SUFFIX,x4hu95mh0t.com,REJECT-DROP
 DOMAIN-SUFFIX,www.xaqsl.com,REJECT-DROP
 DOMAIN-SUFFIX,xavierbrooks.shop,REJECT-DROP
@@ -4971,7 +4969,6 @@ DOMAIN-SUFFIX,rodeoconfig.yodo1api.com,REJECT-DROP
 DOMAIN-SUFFIX,sensors.yodo1api.com,REJECT-DROP
 DOMAIN-SUFFIX,uc-ap.yodo1api.com,REJECT-DROP
 DOMAIN-SUFFIX,sdk.yolanda.hk,REJECT-DROP
-DOMAIN-SUFFIX,yongtai.cn,REJECT-DROP
 DOMAIN-SUFFIX,sxgahmjk.yottnats.cn,REJECT-DROP
 DOMAIN-SUFFIX,a.youdao.com,REJECT-DROP
 DOMAIN-SUFFIX,ad-sdk-config.youdao.com,REJECT-DROP
