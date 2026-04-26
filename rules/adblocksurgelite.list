@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/26 00:41:40
-#!support=5101
+#!date=2026/04/26 10:41:07
+#!support=5096
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -1016,7 +1016,6 @@
 .p.data.cctv.com
 .cctvgb.com.cn
 .www.cdcem.com
-.vpass-jp.cdgemt.cn
 .ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 .tracker.cdnbye.com
 .analytics.emqx.com.w.cdngslb.com
@@ -1209,7 +1208,6 @@
 .ads.cup.com.cn
 .cuqpi.cn
 .web.customer-whatsapp.com.cn
-.cvs0sghj.cn
 .z1.cwbaike.com
 .cx0001.cn
 .ad.cyapi.cn
@@ -1464,7 +1462,6 @@
 .acccountverificatonlog.edgeone.app
 .c2vydmvydxbkyxri-kte1fxva3p.edgeone.app
 .dotnotblock-pfwzl61nwt.edgeone.app
-.hkz2311011313001-l5deuphxox.edgeone.app
 .hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app
 .fixverify-kzlxv1e5mb.edgeone.dev
 .gautamandgautam-byizfzvunb.edgeone.dev
@@ -3150,11 +3147,9 @@
 .qdzilh.cn
 .qeeyou.cn
 .qezpjlp.cn
-.qfb5yhis.cn
 .qfcdgy.cn
 .qfe3hfbo.cn
 .qff3kvis.cn
-.qfg8oksb.cn
 .qfh5tgyv.cn
 .qfh8izze.cn
 .qfl5tjhf.cn
