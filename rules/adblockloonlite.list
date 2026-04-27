@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/27 10:43:36
-#!support=5108
+#!date=2026/04/27 18:15:27
+#!support=5116
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,countly.mail.163.com
 DOMAIN-SUFFIX,crash.163.com
 DOMAIN-SUFFIX,crashlytics.163.com
 DOMAIN-SUFFIX,du.163.com
+DOMAIN-SUFFIX,e-p4p.163.com
 DOMAIN-SUFFIX,fp-upload.dun.163.com
 DOMAIN-SUFFIX,g.163.com
 DOMAIN-SUFFIX,gb.corp.163.com
@@ -237,6 +238,7 @@ DOMAIN-SUFFIX,ad.51wnl.com
 DOMAIN-SUFFIX,51xuex.com.cn
 DOMAIN-SUFFIX,51yes.com
 DOMAIN-SUFFIX,game.51yund.com
+DOMAIN-SUFFIX,go.5211game.com
 DOMAIN-SUFFIX,52aoteman.com
 DOMAIN-SUFFIX,5y9nfpes.52pk.com
 DOMAIN-SUFFIX,t-adx.52qumao.com
@@ -273,7 +275,6 @@ DOMAIN-SUFFIX,tracklog.58.com
 DOMAIN-SUFFIX,apiwmda.58.com.cn
 DOMAIN-SUFFIX,gemini.588886.xyz
 DOMAIN-SUFFIX,stat-58home.58che.com
-DOMAIN-SUFFIX,58tg.com
 DOMAIN-SUFFIX,595image.com
 DOMAIN-SUFFIX,59gt.cn
 DOMAIN-SUFFIX,5b0a1c63v9.com
@@ -518,6 +519,7 @@ DOMAIN-SUFFIX,cb.alimama.cn
 DOMAIN-SUFFIX,img.alimama.cn
 DOMAIN-SUFFIX,acookie.alimama.com
 DOMAIN-SUFFIX,p.alimama.com
+DOMAIN-SUFFIX,static.alimama.com
 DOMAIN-SUFFIX,openmonitor.alipay-eco.com
 DOMAIN-SUFFIX,amdc.alipay.com
 DOMAIN-SUFFIX,collect.alipay.com
@@ -1102,6 +1104,7 @@ DOMAIN-SUFFIX,cleartone.club
 DOMAIN-SUFFIX,log-api.cli.im
 DOMAIN-SUFFIX,bd1.click.com.cn
 DOMAIN-SUFFIX,clicki.cn
+DOMAIN-SUFFIX,7xi9g1.com1.z0.glb.clouddn.com
 DOMAIN-SUFFIX,advertise.cloudlinks.cn
 DOMAIN-SUFFIX,log.cmbchina.com
 DOMAIN-SUFFIX,lcf.cmplay.cmcm.com
@@ -1862,6 +1865,7 @@ DOMAIN-SUFFIX,adx-id.ads.heytapmobi.com
 DOMAIN-SUFFIX,adx-in.ads.heytapmobi.com
 DOMAIN-SUFFIX,adx-sg.ads.heytapmobi.com
 DOMAIN-SUFFIX,adx.ads.heytapmobi.com
+DOMAIN-SUFFIX,album-cn01a.ocloud.heytapmobi.com
 DOMAIN-SUFFIX,album-sg01a.ocloud.heytapmobi.com
 DOMAIN-SUFFIX,api-cn.cdo.heytapmobi.com
 DOMAIN-SUFFIX,api-gl.cdo.heytapmobi.com
@@ -2483,7 +2487,6 @@ DOMAIN-SUFFIX,update.mobile.kugou.com
 DOMAIN-SUFFIX,webcollects.kugou.com
 DOMAIN-SUFFIX,kuheju.com
 DOMAIN-SUFFIX,msstatic.com.gslb.kuiniuca.com
-DOMAIN-SUFFIX,kuk8.com
 DOMAIN-SUFFIX,h1.kukuw.com
 DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com
 DOMAIN-SUFFIX,qcloud-sg-datareceiver.kurogame.xyz
@@ -4247,6 +4250,7 @@ DOMAIN-SUFFIX,asia-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,asia-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,asia-vpushonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,asia-vpushort-stsdk.vivoglobal.com
+DOMAIN-SUFFIX,au-vcode-od.vivoglobal.com
 DOMAIN-SUFFIX,br-p.vivoglobal.com
 DOMAIN-SUFFIX,cname-asia-comonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-asia-st-exappupgrade.vivoglobal.com
@@ -4294,8 +4298,11 @@ DOMAIN-SUFFIX,in-timesync.vivoglobal.com
 DOMAIN-SUFFIX,in-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,kz-onrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,kz-ort-stsdk.vivoglobal.com
+DOMAIN-SUFFIX,kz-romsp-unifyconfig.vivoglobal.com
+DOMAIN-SUFFIX,kz-st-exappupgrade.vivoglobal.com
 DOMAIN-SUFFIX,kz-vcode-api.vivoglobal.com
 DOMAIN-SUFFIX,kz-vcode-od.vivoglobal.com
+DOMAIN-SUFFIX,kz-vcode-or.vivoglobal.com
 DOMAIN-SUFFIX,mx-cota.vivoglobal.com
 DOMAIN-SUFFIX,mx-domaincfg.vivoglobal.com
 DOMAIN-SUFFIX,mx-err-up.vivoglobal.com
@@ -4734,6 +4741,7 @@ DOMAIN-SUFFIX,adsp.xunlei.com
 DOMAIN-SUFFIX,advertpay-vip-ssl.xunlei.com
 DOMAIN-SUFFIX,advertpay.vip.xunlei.com
 DOMAIN-SUFFIX,analytics-union.xunlei.com
+DOMAIN-SUFFIX,api-u-ssl.xunlei.com
 DOMAIN-SUFFIX,kkpgv2.xunlei.com
 DOMAIN-SUFFIX,soa-vip-ssl.xunlei.com
 DOMAIN-SUFFIX,stat.download.xunlei.com

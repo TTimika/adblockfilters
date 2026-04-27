@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/27 10:43:37
-#!support=5108
+#!date=2026/04/27 18:15:27
+#!support=5116
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -75,6 +75,7 @@
 .crash.163.com
 .crashlytics.163.com
 .du.163.com
+.e-p4p.163.com
 .fp-upload.dun.163.com
 .g.163.com
 .gb.corp.163.com
@@ -240,6 +241,7 @@
 .51xuex.com.cn
 .51yes.com
 .game.51yund.com
+.go.5211game.com
 .52aoteman.com
 .5y9nfpes.52pk.com
 .t-adx.52qumao.com
@@ -276,7 +278,6 @@
 .apiwmda.58.com.cn
 .gemini.588886.xyz
 .stat-58home.58che.com
-.58tg.com
 .595image.com
 .59gt.cn
 .5b0a1c63v9.com
@@ -521,6 +522,7 @@
 .img.alimama.cn
 .acookie.alimama.com
 .p.alimama.com
+.static.alimama.com
 .openmonitor.alipay-eco.com
 .amdc.alipay.com
 .collect.alipay.com
@@ -1105,6 +1107,7 @@
 .log-api.cli.im
 .bd1.click.com.cn
 .clicki.cn
+.7xi9g1.com1.z0.glb.clouddn.com
 .advertise.cloudlinks.cn
 .log.cmbchina.com
 .lcf.cmplay.cmcm.com
@@ -1865,6 +1868,7 @@
 .adx-in.ads.heytapmobi.com
 .adx-sg.ads.heytapmobi.com
 .adx.ads.heytapmobi.com
+.album-cn01a.ocloud.heytapmobi.com
 .album-sg01a.ocloud.heytapmobi.com
 .api-cn.cdo.heytapmobi.com
 .api-gl.cdo.heytapmobi.com
@@ -2486,7 +2490,6 @@
 .webcollects.kugou.com
 .kuheju.com
 .msstatic.com.gslb.kuiniuca.com
-.kuk8.com
 .h1.kukuw.com
 .img.adnyg.com.w.kunlungr.com
 .qcloud-sg-datareceiver.kurogame.xyz
@@ -4250,6 +4253,7 @@
 .asia-vcode-or.vivoglobal.com
 .asia-vpushonrt-stsdk.vivoglobal.com
 .asia-vpushort-stsdk.vivoglobal.com
+.au-vcode-od.vivoglobal.com
 .br-p.vivoglobal.com
 .cname-asia-comonrt-stsdk.vivoglobal.com
 .cname-asia-st-exappupgrade.vivoglobal.com
@@ -4297,8 +4301,11 @@
 .in-vcode-api.vivoglobal.com
 .kz-onrt-stsdk.vivoglobal.com
 .kz-ort-stsdk.vivoglobal.com
+.kz-romsp-unifyconfig.vivoglobal.com
+.kz-st-exappupgrade.vivoglobal.com
 .kz-vcode-api.vivoglobal.com
 .kz-vcode-od.vivoglobal.com
+.kz-vcode-or.vivoglobal.com
 .mx-cota.vivoglobal.com
 .mx-domaincfg.vivoglobal.com
 .mx-err-up.vivoglobal.com
@@ -4737,6 +4744,7 @@
 .advertpay-vip-ssl.xunlei.com
 .advertpay.vip.xunlei.com
 .analytics-union.xunlei.com
+.api-u-ssl.xunlei.com
 .kkpgv2.xunlei.com
 .soa-vip-ssl.xunlei.com
 .stat.download.xunlei.com
