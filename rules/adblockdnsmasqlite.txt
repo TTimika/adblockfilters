@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260428012301
-# Last modified: 2026/04/28 01:23:01
-# Blocked domains: 5116
+# Version: 20260428105057
+# Last modified: 2026/04/28 10:50:57
+# Blocked domains: 5114
 #
 local=/kwflvcdn.000dn.com/
 local=/img.0279.net/
@@ -792,6 +792,7 @@ local=/paimgcdn-feed.baidu.com/
 local=/pimlog.baidu.com/
 local=/plugin.mobopay.baidu.com/
 local=/pos.baidu.com/
+local=/publish-pic-cpu.baidu.com/
 local=/pups.baidu.com/
 local=/push.zhanzhang.baidu.com/
 local=/qapm.baidu.com/
@@ -3156,7 +3157,6 @@ local=/qff3kvis.cn/
 local=/qfh5tgyv.cn/
 local=/qfh8izze.cn/
 local=/qfl5tjhf.cn/
-local=/qfq4ulbo.cn/
 local=/qfs9bkgd.cn/
 local=/qfw5oook.cn/
 local=/qg6uf.cn/
@@ -3534,7 +3534,6 @@ local=/sensorsdata.cn/
 local=/seordl.cn/
 local=/seurss.eu.cc/
 local=/logstat.t.sfht.com/
-local=/sfpyykk22.cn/
 local=/sfxll.cn/
 local=/track.sgdmobile.com/
 local=/sglyd.cn/
@@ -4751,7 +4750,6 @@ local=/novendec.xxbglo.cn/
 local=/p2p-punch.xxpkg.com/
 local=/xxxx68xxxx.com/
 local=/xy.com/
-local=/yrnpuw.xy399566.cn/
 local=/nzmzwebd.xy828515.cn/
 local=/xycdn.com/
 local=/xyizgh.cn/

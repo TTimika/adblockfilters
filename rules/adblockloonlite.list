@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/28 01:23:01
-#!support=5116
+#!date=2026/04/28 10:50:58
+#!support=5114
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -796,6 +796,7 @@ DOMAIN-SUFFIX,paimgcdn-feed.baidu.com
 DOMAIN-SUFFIX,pimlog.baidu.com
 DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,publish-pic-cpu.baidu.com
 DOMAIN-SUFFIX,pups.baidu.com
 DOMAIN-SUFFIX,push.zhanzhang.baidu.com
 DOMAIN-SUFFIX,qapm.baidu.com
@@ -3160,7 +3161,6 @@ DOMAIN-SUFFIX,qff3kvis.cn
 DOMAIN-SUFFIX,qfh5tgyv.cn
 DOMAIN-SUFFIX,qfh8izze.cn
 DOMAIN-SUFFIX,qfl5tjhf.cn
-DOMAIN-SUFFIX,qfq4ulbo.cn
 DOMAIN-SUFFIX,qfs9bkgd.cn
 DOMAIN-SUFFIX,qfw5oook.cn
 DOMAIN-SUFFIX,qg6uf.cn
@@ -3538,7 +3538,6 @@ DOMAIN-SUFFIX,sensorsdata.cn
 DOMAIN-SUFFIX,seordl.cn
 DOMAIN-SUFFIX,seurss.eu.cc
 DOMAIN-SUFFIX,logstat.t.sfht.com
-DOMAIN-SUFFIX,sfpyykk22.cn
 DOMAIN-SUFFIX,sfxll.cn
 DOMAIN-SUFFIX,track.sgdmobile.com
 DOMAIN-SUFFIX,sglyd.cn
@@ -4755,7 +4754,6 @@ DOMAIN-SUFFIX,novendec.xxbglo.cn
 DOMAIN-SUFFIX,p2p-punch.xxpkg.com
 DOMAIN-SUFFIX,xxxx68xxxx.com
 DOMAIN-SUFFIX,xy.com
-DOMAIN-SUFFIX,yrnpuw.xy399566.cn
 DOMAIN-SUFFIX,nzmzwebd.xy828515.cn
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xyizgh.cn

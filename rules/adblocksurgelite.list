@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/28 01:23:01
-#!support=5116
+#!date=2026/04/28 10:50:58
+#!support=5114
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -799,6 +799,7 @@
 .pimlog.baidu.com
 .plugin.mobopay.baidu.com
 .pos.baidu.com
+.publish-pic-cpu.baidu.com
 .pups.baidu.com
 .push.zhanzhang.baidu.com
 .qapm.baidu.com
@@ -3163,7 +3164,6 @@
 .qfh5tgyv.cn
 .qfh8izze.cn
 .qfl5tjhf.cn
-.qfq4ulbo.cn
 .qfs9bkgd.cn
 .qfw5oook.cn
 .qg6uf.cn
@@ -3541,7 +3541,6 @@
 .seordl.cn
 .seurss.eu.cc
 .logstat.t.sfht.com
-.sfpyykk22.cn
 .sfxll.cn
 .track.sgdmobile.com
 .sglyd.cn
@@ -4758,7 +4757,6 @@
 .p2p-punch.xxpkg.com
 .xxxx68xxxx.com
 .xy.com
-.yrnpuw.xy399566.cn
 .nzmzwebd.xy828515.cn
 .xycdn.com
 .xyizgh.cn
