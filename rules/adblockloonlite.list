@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/29 01:47:35
-#!support=5077
+#!date=2026/04/29 10:50:13
+#!support=5076
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -1116,7 +1116,9 @@ DOMAIN-SUFFIX,senlog.cmpassport.com
 DOMAIN-SUFFIX,cmpxaup.cn
 DOMAIN-SUFFIX,ggc.cmvideo.cn
 DOMAIN-SUFFIX,ggx.cmvideo.cn
-DOMAIN-SUFFIX,cn-oyi-okx.com.cn
+DOMAIN-SUFFIX,m.cn-oyi-okx.com.cn
+DOMAIN-SUFFIX,www.cn-oyi-okx.com.cn
+DOMAIN-SUFFIX,zh.cn-oyi-okx.com.cn
 DOMAIN-SUFFIX,cn-wps-zh.com.cn
 DOMAIN-SUFFIX,ad-api.cnblogs.com
 DOMAIN-SUFFIX,analytics.cnblogs.com
@@ -1652,7 +1654,6 @@ DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getmyip.top
 DOMAIN-SUFFIX,getui.cn
 DOMAIN-SUFFIX,getui.com
-DOMAIN-SUFFIX,gfxjcgb.cn
 DOMAIN-SUFFIX,safebrowsing.urlsec.gg.com
 DOMAIN-SUFFIX,ggzh-google.com.cn
 DOMAIN-SUFFIX,shqdown.ggzuhao.com
@@ -4875,8 +4876,6 @@ DOMAIN-SUFFIX,yunshipei.com
 DOMAIN-SUFFIX,app.storage.yunvm.com
 DOMAIN-SUFFIX,httpdns.yunxindns.com
 DOMAIN-SUFFIX,statistic-overseas.yunxinfw.com
-DOMAIN-SUFFIX,logrcv.yunxish.com
-DOMAIN-SUFFIX,tracelog-debug.yunxish.com
 DOMAIN-SUFFIX,www.yuyue008.cn
 DOMAIN-SUFFIX,yvdb.cn
 DOMAIN-SUFFIX,yw800.com.cn

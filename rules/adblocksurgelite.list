@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/29 01:47:36
-#!support=5077
+#!date=2026/04/29 10:50:13
+#!support=5076
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -1119,7 +1119,9 @@
 .cmpxaup.cn
 .ggc.cmvideo.cn
 .ggx.cmvideo.cn
-.cn-oyi-okx.com.cn
+.m.cn-oyi-okx.com.cn
+.www.cn-oyi-okx.com.cn
+.zh.cn-oyi-okx.com.cn
 .cn-wps-zh.com.cn
 .ad-api.cnblogs.com
 .analytics.cnblogs.com
@@ -1655,7 +1657,6 @@
 .getmyip.top
 .getui.cn
 .getui.com
-.gfxjcgb.cn
 .safebrowsing.urlsec.gg.com
 .ggzh-google.com.cn
 .shqdown.ggzuhao.com
@@ -4878,8 +4879,6 @@
 .app.storage.yunvm.com
 .httpdns.yunxindns.com
 .statistic-overseas.yunxinfw.com
-.logrcv.yunxish.com
-.tracelog-debug.yunxish.com
 .www.yuyue008.cn
 .yvdb.cn
 .yw800.com.cn
