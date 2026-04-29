@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/29 10:50:13
-#!support=5076
+#!date=2026/04/29 18:06:08
+#!support=5071
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -232,7 +232,6 @@ DOMAIN-SUFFIX,trace.51jingying.com
 DOMAIN-SUFFIX,scdata.51job.com
 DOMAIN-SUFFIX,a1.51shiti.cn
 DOMAIN-SUFFIX,51taifu.com
-DOMAIN-SUFFIX,ad.51wnl-cq.com
 DOMAIN-SUFFIX,ad.51wnl.com
 DOMAIN-SUFFIX,51xuex.com.cn
 DOMAIN-SUFFIX,51yes.com
@@ -532,7 +531,6 @@ DOMAIN-SUFFIX,click.aliyun.com
 DOMAIN-SUFFIX,1fur2cuzsul-sdk.rum.aliyuncs.com
 DOMAIN-SUFFIX,1fw35mn5y7h-sdk.rum.aliyuncs.com
 DOMAIN-SUFFIX,1hlahoc4rpc-sdk.rum.aliyuncs.com
-DOMAIN-SUFFIX,ac9olrggo8-default-cn.rum.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-america.oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -2354,7 +2352,6 @@ DOMAIN-SUFFIX,panda.kdnet.net
 DOMAIN-SUFFIX,ssp.kdnet.net
 DOMAIN-SUFFIX,super.kdnet.net
 DOMAIN-SUFFIX,tracking.kdnet.net
-DOMAIN-SUFFIX,kejixueyuan.cn
 DOMAIN-SUFFIX,elq.keysight.com.cn
 DOMAIN-SUFFIX,sandbox-elq.keysight.com.cn
 DOMAIN-SUFFIX,mail.kguapp.com
@@ -2471,6 +2468,7 @@ DOMAIN-SUFFIX,update.mobile.kugou.com
 DOMAIN-SUFFIX,webcollects.kugou.com
 DOMAIN-SUFFIX,kuheju.com
 DOMAIN-SUFFIX,msstatic.com.gslb.kuiniuca.com
+DOMAIN-SUFFIX,kuk8.com
 DOMAIN-SUFFIX,h1.kukuw.com
 DOMAIN-SUFFIX,img.adnyg.com.w.kunlungr.com
 DOMAIN-SUFFIX,qcloud-sg-datareceiver.kurogame.xyz
@@ -3763,7 +3761,6 @@ DOMAIN-SUFFIX,sxundrh.cn
 DOMAIN-SUFFIX,gmbl.sy99.de
 DOMAIN-SUFFIX,sybnzs.cn
 DOMAIN-SUFFIX,sanalytics.sydneyuniversity.cn
-DOMAIN-SUFFIX,sydyqg.cn
 DOMAIN-SUFFIX,symaa.cn
 DOMAIN-SUFFIX,synacast.com
 DOMAIN-SUFFIX,syr66.com.cn
@@ -4230,7 +4227,6 @@ DOMAIN-SUFFIX,cname-in-apport-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-in-bom01-nginxpool03.vivoglobal.com
 DOMAIN-SUFFIX,cname-in-ctdbonrt-stsdk.vivoglobal.com
 DOMAIN-SUFFIX,cname-sin01-stsdk09.vivoglobal.com
-DOMAIN-SUFFIX,co-domaincfg.vivoglobal.com
 DOMAIN-SUFFIX,co-romsp-unifyconfig.vivoglobal.com
 DOMAIN-SUFFIX,co-st-sl.vivoglobal.com
 DOMAIN-SUFFIX,co-timesync.vivoglobal.com
@@ -4912,7 +4908,6 @@ DOMAIN-SUFFIX,yxwg21lyyn.com
 DOMAIN-SUFFIX,cloud-log.yy.com
 DOMAIN-SUFFIX,gt.yy.com
 DOMAIN-SUFFIX,httpdns.gslb.yy.com
-DOMAIN-SUFFIX,metrics.yy.com
 DOMAIN-SUFFIX,stat.game.yy.com
 DOMAIN-SUFFIX,yylady.cn
 DOMAIN-SUFFIX,adapi.yynetwk.com
