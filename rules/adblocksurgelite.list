@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/30 01:29:19
-#!support=5071
+#!date=2026/04/30 10:51:42
+#!support=5070
 #!proxy-select=REJECT-DROP
 #
 .kwflvcdn.000dn.com
@@ -794,6 +794,7 @@
 .pimlog.baidu.com
 .plugin.mobopay.baidu.com
 .pos.baidu.com
+.publish-pic-cpu.baidu.com
 .pups.baidu.com
 .push.zhanzhang.baidu.com
 .qapm.baidu.com
@@ -1514,7 +1515,6 @@
 .euuh.cn
 .evkc.cn
 .evri-parcelq.cn
-.evri-parcelw.cn
 .www.evri-uk.help
 .duologinsupersdk.ewan.cn
 .ewrrpuquc1.com
@@ -2652,7 +2652,6 @@
 .adsapi.manhuaren.com
 .bi.manhuaren.com
 .euadsapi.manhuaren.com
-.mankalong.cn
 .manyou.com
 .adx.maplehaze.cn
 .accounts.marketwebb.me

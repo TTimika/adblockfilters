@@ -7,8 +7,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/04/30 01:29:19
-#!support=5071
+#!date=2026/04/30 10:51:41
+#!support=5070
 #!proxy-select=REJECT
 #
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
@@ -791,6 +791,7 @@ DOMAIN-SUFFIX,paimgcdn-feed.baidu.com
 DOMAIN-SUFFIX,pimlog.baidu.com
 DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,publish-pic-cpu.baidu.com
 DOMAIN-SUFFIX,pups.baidu.com
 DOMAIN-SUFFIX,push.zhanzhang.baidu.com
 DOMAIN-SUFFIX,qapm.baidu.com
@@ -1511,7 +1512,6 @@ DOMAIN-SUFFIX,c.etoolads.cn
 DOMAIN-SUFFIX,euuh.cn
 DOMAIN-SUFFIX,evkc.cn
 DOMAIN-SUFFIX,evri-parcelq.cn
-DOMAIN-SUFFIX,evri-parcelw.cn
 DOMAIN-SUFFIX,www.evri-uk.help
 DOMAIN-SUFFIX,duologinsupersdk.ewan.cn
 DOMAIN-SUFFIX,ewrrpuquc1.com
@@ -2649,7 +2649,6 @@ DOMAIN-SUFFIX,mangomob.net
 DOMAIN-SUFFIX,adsapi.manhuaren.com
 DOMAIN-SUFFIX,bi.manhuaren.com
 DOMAIN-SUFFIX,euadsapi.manhuaren.com
-DOMAIN-SUFFIX,mankalong.cn
 DOMAIN-SUFFIX,manyou.com
 DOMAIN-SUFFIX,adx.maplehaze.cn
 DOMAIN-SUFFIX,accounts.marketwebb.me
