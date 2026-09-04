@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/09/04 11:02:04
-#!support=5272
+#!date=2026/09/04 20:31:46
+#!support=5286
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -115,6 +115,7 @@
 .1nevsf92q.com
 .d1.1ppt.com
 .1qingdao.com
+.1rtb.cn
 .1rtb.com
 .1rtb.net
 .1s8pj.cn
@@ -242,6 +243,8 @@
 .logs.51cto.com
 .trace.51jingying.com
 .scdata.51job.com
+.51link.com
+.51mitu.com
 .a1.51shiti.cn
 .51taifu.com
 .r.51wnl-cq.com
@@ -349,6 +352,7 @@
 .92p3c8lgqt.com
 .93692zubo66936.com
 .9377.com
+.93ta.cn
 .93txjw4rt2.com
 .ads.95516.com
 .analytics.95516.com
@@ -849,7 +853,6 @@
 .baifendian.com
 .ad.baihemob.com
 .pic.baihuawen.cn
-.baihuwang.com
 .baixing.com
 .bd-s.baixing.net
 .script-bd.baixing.net
@@ -1000,8 +1003,7 @@
 .zc1.campaign-view.com.cn
 .count.candou.com
 .canjejpuntosbac.help
-.canjerecompensa.help
-.canjeregalos.help
+.telemetry.canva.cn
 .caomeixz7.xyz
 .capexvision-ai.com
 .capexvision-ai.net
@@ -1088,6 +1090,7 @@
 .a2put.chinaz.com
 .stats.chinaz.com
 .chiq-cloud.com
+.chixiatech.com
 .cholo215.cn
 .chrunlee.cn
 .chshcms.net
@@ -1415,6 +1418,7 @@
 .ap.dongqiudi.com
 .sensors-log.dongqiudi.com
 .stat.dongqiudi.com
+.dopa.com
 .monitor-web.dotfashion.cn
 .push.douban.com
 .log.doubao.com
@@ -1456,6 +1460,7 @@
 .duba.com
 .duba.net
 .img.dubyc.com
+.kui.dui88.com
 .picture.duokan.com
 .fm.duokanbox.com
 .stat.duokanbox.com
@@ -1503,6 +1508,7 @@
 .mobappconfig.securities.eastmoney.com
 .same.eastmoney.com
 .easyliao.com
+.easyrecoverychina.com
 .easytomessage.com
 .eblnzoq.cn
 .ebrid.cn
@@ -1566,7 +1572,6 @@
 .count.enet.com.cn
 .brc.englishdict.cc
 .brc.englishtimes.cc
-.iqiyim.adtrack.enlightent.cn
 .eap.enorth.com.cn
 .eap.big5.enorth.com.cn
 .js.entm.top
@@ -1926,6 +1931,7 @@
 .mini.hao123.com
 .cdn.haocaa.com
 .2.haoxue360.com
+.haozhuangji.com
 .download.haozip.com
 .log.dc.cn.happyelements.com
 .hapying.com
@@ -2251,6 +2257,7 @@
 .metrics.ilovematlab.cn
 .smetrics.ilovematlab.cn
 .imageter.com
+.imagiraffe.shop
 .img001.com
 .tj.img4399.com
 .imlb2c.com
@@ -2279,6 +2286,8 @@
 .inping.com
 .api-data-collection.insta360.cn
 .sentry-sg.insta360.com
+.instagram-e.com.cn
+.instagram-g.com.cn
 .instrument95.com
 .cane.intel.cn
 .dogo.intel.cn
@@ -2394,6 +2403,7 @@
 .jesgoo.com
 .promotion-quicker.jftechsoft.com
 .jgid.cn
+.jhzfwl.cn
 .wj.jiancai365.cn
 .ads.jianchiapp.com
 .acc.jiangsujiaxue.com
@@ -2682,6 +2692,7 @@
 .sentry-lb.lenovo.com.cn
 .sentry-lb.mbgcdn.lenovo.com.cn
 .fsr.lenovomm.com
+.prw.lenovomm.com
 .pushapi.lenovomm.com
 .susapi.lenovomm.com
 .uss-pid.lenovomm.com
@@ -2795,7 +2806,6 @@
 .corp.meitu.com
 .gg.meitu.com
 .message.meitu.com
-.sentry-26.meitu.com
 .tuiguang.meitu.com
 .xiuxiu.android.dl.meitu.com
 .adgame.waimai.meituan.com
@@ -3028,7 +3038,6 @@
 .nsabiu.myshoplaza.com
 .zeemlight.myshoplaza.com
 .analytics.myshoptago.com
-.stats.mysteel.com
 .ggs.myzaker.com
 .aries.mzres.com
 .mzwzo.cn
@@ -3326,6 +3335,7 @@
 .kf.qingwk.com
 .log.qiniuapi.com
 .kbae.qiqqh.cn
+.qishui-vip.com.cn
 .stats.qiumibao.com
 .webstat.qiumibao.com
 .m.qiuwu.net
@@ -3434,7 +3444,6 @@
 .oimsgad.qq.com
 .omgid.qq.com
 .omgmta1.qq.com
-.openapi.guanjia.qq.com
 .oth.str.mdt.qq.com
 .p2p.qq.com
 .p2pupdate.gamedl.qq.com
@@ -3509,6 +3518,7 @@
 .vlive.qqvideo.tc.qq.com
 .vpic.video.qq.com
 .w.inews.qq.com
+.wetelemetry.weixin.qq.com
 .wnsmusic.qq.com
 .ws.sj.qq.com
 .wup.imtt.qq.com
@@ -3554,7 +3564,6 @@
 .is.snssdk.com.queniukw.com
 .ads3-normal-hl.zijieapi.com.queniurc.com
 .p3-ad-sign.byteimg.com.queniusy.com
-.ads3-normal.zijieapi.com.queniusz.com
 .lf3-analytics.bytescm.com.queniuuf.com
 .sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com
 .api-access.pangolin-sdk-toutiao-b.com.queniuyk.com
@@ -3716,6 +3725,7 @@
 .w88.shanghaidisneyresort.com.cn
 .api.shanghailingye.cn
 .js.shangxueba.com
+.shanhulan.cn
 .shanhutech.cn
 .sc.shayugg.com
 .shchaoneng.cn
@@ -3726,6 +3736,7 @@
 .jpaasne.e.shifen.com
 .statichf.shihuocdn.cn
 .shilian168.cn
+.analysis.shixunsuda.com
 .1.shopit.cn
 .log.shopxo.net
 .ads-shopping.shouqianba.com
@@ -3733,7 +3744,6 @@
 .ad.shunchangzhixing.com
 .js.shunqi.com
 .shuzilm.cn
-.ads-monitoring.shziyi.com
 .sifugu.cn
 .sigmob.com
 .smetrics.marketing.signify.com.cn
@@ -3811,7 +3821,6 @@
 .skfqxkk.cn
 .log.skyroam.com.cn
 .stats.skywork.ai
-.sm-tc.cn
 .c.sm.cn
 .hc-ssp.sm.cn
 .huichuan.sm.cn
@@ -3927,6 +3936,7 @@
 .countubn.light.soufun.com
 .tongji.home.soufun.com
 .www.souid.com
+.ad-r.soulapp.cn
 .data-collector.soulapp.cn
 .roi.soulapp.cn
 .sgg.southcn.com
@@ -4377,6 +4387,7 @@
 .www.v61.com
 .v84tz11w7.com
 .va3yq7si6w.com
+.vaeth.cn
 .vamaker.com
 .collect.vans.com.cn
 .sea-log-rcv.vansound.com
@@ -4725,6 +4736,7 @@
 .mo.res.wpscdn.cn
 .abroadad.cache.wpscdn.com
 .wpwpquse.cn
+.log.wqxsw.com
 .wrating.com
 .ad.12306.cn.wscdns.com
 .analytics.95516.com.wscdns.com
@@ -4751,6 +4763,7 @@
 .pvx.xcar.com.cn
 .zio.xcar.com.cn
 .analytics.xdiarys.com
+.analytics2.xdiarys.com
 .stat.xdplt.com
 .xdrig.com
 .xegnfwkju.com
@@ -4940,7 +4953,6 @@
 .xyvorelintusai.com
 .a.xywy.com
 .bdmjs.xywy.com
-.xyyiyuan.cn
 .xzswn87hm.com
 .bmjs.xzw.com
 .y0764.cn
@@ -5198,6 +5210,7 @@
 .gecko5-lf.zijieapi.com
 .log.zijieapi.com
 .log-klink.zijieapi.com
+.log5-applog-hl.zijieapi.com
 .log5-applog-lf.zijieapi.com
 .mcs.zijieapi.com
 .minigame5-normal-hl.zijieapi.com
@@ -5281,6 +5294,7 @@
 .zyskonex-ai.com
 .zyskonex-pl.com
 .foreign-ime-ad.zyukj6l.com
+.zyxyfy.com
 .zzrcz.com
 .cfgc.zztfly.com
 .log-auth.zztfly.com

@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists PRO mini、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20260904110204
-# Last modified: 2026/09/04 11:02:04
-# Blocked domains: 5272
+# Version: 20260904203146
+# Last modified: 2026/09/04 20:31:46
+# Blocked domains: 5286
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -108,6 +108,7 @@ vstlog.17u.cn
 1nevsf92q.com
 d1.1ppt.com
 1qingdao.com
+1rtb.cn
 1rtb.com
 1rtb.net
 1s8pj.cn
@@ -235,6 +236,8 @@ log2.51changdu.com
 logs.51cto.com
 trace.51jingying.com
 scdata.51job.com
+51link.com
+51mitu.com
 a1.51shiti.cn
 51taifu.com
 r.51wnl-cq.com
@@ -342,6 +345,7 @@ rdm.91yunma.cn
 92p3c8lgqt.com
 93692zubo66936.com
 9377.com
+93ta.cn
 93txjw4rt2.com
 ads.95516.com
 analytics.95516.com
@@ -842,7 +846,6 @@ baidustatic.com
 baifendian.com
 ad.baihemob.com
 pic.baihuawen.cn
-baihuwang.com
 baixing.com
 bd-s.baixing.net
 script-bd.baixing.net
@@ -993,8 +996,7 @@ stratus.campaign-image.com.cn
 zc1.campaign-view.com.cn
 count.candou.com
 canjejpuntosbac.help
-canjerecompensa.help
-canjeregalos.help
+telemetry.canva.cn
 caomeixz7.xyz
 capexvision-ai.com
 capexvision-ai.net
@@ -1081,6 +1083,7 @@ sdkoptedge.chinanetcenter.com
 a2put.chinaz.com
 stats.chinaz.com
 chiq-cloud.com
+chixiatech.com
 cholo215.cn
 chrunlee.cn
 chshcms.net
@@ -1408,6 +1411,7 @@ eo.dongdm.cn
 ap.dongqiudi.com
 sensors-log.dongqiudi.com
 stat.dongqiudi.com
+dopa.com
 monitor-web.dotfashion.cn
 push.douban.com
 log.doubao.com
@@ -1449,6 +1453,7 @@ duapps.com
 duba.com
 duba.net
 img.dubyc.com
+kui.dui88.com
 picture.duokan.com
 fm.duokanbox.com
 stat.duokanbox.com
@@ -1496,6 +1501,7 @@ huaxiang.eastmoney.com
 mobappconfig.securities.eastmoney.com
 same.eastmoney.com
 easyliao.com
+easyrecoverychina.com
 easytomessage.com
 eblnzoq.cn
 ebrid.cn
@@ -1559,7 +1565,6 @@ ename.com.cn
 count.enet.com.cn
 brc.englishdict.cc
 brc.englishtimes.cc
-iqiyim.adtrack.enlightent.cn
 eap.enorth.com.cn
 eap.big5.enorth.com.cn
 js.entm.top
@@ -1919,6 +1924,7 @@ as1.m.hao123.com
 mini.hao123.com
 cdn.haocaa.com
 2.haoxue360.com
+haozhuangji.com
 download.haozip.com
 log.dc.cn.happyelements.com
 hapying.com
@@ -2244,6 +2250,7 @@ smetrics.illumina.com.cn
 metrics.ilovematlab.cn
 smetrics.ilovematlab.cn
 imageter.com
+imagiraffe.shop
 img001.com
 tj.img4399.com
 imlb2c.com
@@ -2272,6 +2279,8 @@ ads-sdk-api.innoads.cn
 inping.com
 api-data-collection.insta360.cn
 sentry-sg.insta360.com
+instagram-e.com.cn
+instagram-g.com.cn
 instrument95.com
 cane.intel.cn
 dogo.intel.cn
@@ -2387,6 +2396,7 @@ jdpm.net.cn
 jesgoo.com
 promotion-quicker.jftechsoft.com
 jgid.cn
+jhzfwl.cn
 wj.jiancai365.cn
 ads.jianchiapp.com
 acc.jiangsujiaxue.com
@@ -2675,6 +2685,7 @@ s.lenovo.com
 sentry-lb.lenovo.com.cn
 sentry-lb.mbgcdn.lenovo.com.cn
 fsr.lenovomm.com
+prw.lenovomm.com
 pushapi.lenovomm.com
 susapi.lenovomm.com
 uss-pid.lenovomm.com
@@ -2788,7 +2799,6 @@ meiqia.com
 corp.meitu.com
 gg.meitu.com
 message.meitu.com
-sentry-26.meitu.com
 tuiguang.meitu.com
 xiuxiu.android.dl.meitu.com
 adgame.waimai.meituan.com
@@ -3021,7 +3031,6 @@ maoamao.myshoplaza.com
 nsabiu.myshoplaza.com
 zeemlight.myshoplaza.com
 analytics.myshoptago.com
-stats.mysteel.com
 ggs.myzaker.com
 aries.mzres.com
 mzwzo.cn
@@ -3319,6 +3328,7 @@ logger.qingting.fm
 kf.qingwk.com
 log.qiniuapi.com
 kbae.qiqqh.cn
+qishui-vip.com.cn
 stats.qiumibao.com
 webstat.qiumibao.com
 m.qiuwu.net
@@ -3427,7 +3437,6 @@ mtrace.qq.com
 oimsgad.qq.com
 omgid.qq.com
 omgmta1.qq.com
-openapi.guanjia.qq.com
 oth.str.mdt.qq.com
 p2p.qq.com
 p2pupdate.gamedl.qq.com
@@ -3502,6 +3511,7 @@ video.dispatch.tc.qq.com
 vlive.qqvideo.tc.qq.com
 vpic.video.qq.com
 w.inews.qq.com
+wetelemetry.weixin.qq.com
 wnsmusic.qq.com
 ws.sj.qq.com
 wup.imtt.qq.com
@@ -3547,7 +3557,6 @@ api-access.pangolin-sdk-toutiao1.com.queniuiq.com
 is.snssdk.com.queniukw.com
 ads3-normal-hl.zijieapi.com.queniurc.com
 p3-ad-sign.byteimg.com.queniusy.com
-ads3-normal.zijieapi.com.queniusz.com
 lf3-analytics.bytescm.com.queniuuf.com
 sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com
 api-access.pangolin-sdk-toutiao-b.com.queniuyk.com
@@ -3709,6 +3718,7 @@ sglyd.cn
 w88.shanghaidisneyresort.com.cn
 api.shanghailingye.cn
 js.shangxueba.com
+shanhulan.cn
 shanhutech.cn
 sc.shayugg.com
 shchaoneng.cn
@@ -3719,6 +3729,7 @@ httpdns.n.shifen.com
 jpaasne.e.shifen.com
 statichf.shihuocdn.cn
 shilian168.cn
+analysis.shixunsuda.com
 1.shopit.cn
 log.shopxo.net
 ads-shopping.shouqianba.com
@@ -3726,7 +3737,6 @@ shuiguo.com
 ad.shunchangzhixing.com
 js.shunqi.com
 shuzilm.cn
-ads-monitoring.shziyi.com
 sifugu.cn
 sigmob.com
 smetrics.marketing.signify.com.cn
@@ -3804,7 +3814,6 @@ sjoy7rq.cn
 skfqxkk.cn
 log.skyroam.com.cn
 stats.skywork.ai
-sm-tc.cn
 c.sm.cn
 hc-ssp.sm.cn
 huichuan.sm.cn
@@ -3920,6 +3929,7 @@ click1n.soufun.com
 countubn.light.soufun.com
 tongji.home.soufun.com
 www.souid.com
+ad-r.soulapp.cn
 data-collector.soulapp.cn
 roi.soulapp.cn
 sgg.southcn.com
@@ -4370,6 +4380,7 @@ ads.v3mh.com
 www.v61.com
 v84tz11w7.com
 va3yq7si6w.com
+vaeth.cn
 vamaker.com
 collect.vans.com.cn
 sea-log-rcv.vansound.com
@@ -4718,6 +4729,7 @@ api-ad-adapter-us.wps.com
 mo.res.wpscdn.cn
 abroadad.cache.wpscdn.com
 wpwpquse.cn
+log.wqxsw.com
 wrating.com
 ad.12306.cn.wscdns.com
 analytics.95516.com.wscdns.com
@@ -4744,6 +4756,7 @@ pv.xcar.com.cn
 pvx.xcar.com.cn
 zio.xcar.com.cn
 analytics.xdiarys.com
+analytics2.xdiarys.com
 stat.xdplt.com
 xdrig.com
 xegnfwkju.com
@@ -4933,7 +4946,6 @@ xyvorelintus-pl.net
 xyvorelintusai.com
 a.xywy.com
 bdmjs.xywy.com
-xyyiyuan.cn
 xzswn87hm.com
 bmjs.xzw.com
 y0764.cn
@@ -5191,6 +5203,7 @@ gecko3-lf.zijieapi.com
 gecko5-lf.zijieapi.com
 log.zijieapi.com
 log-klink.zijieapi.com
+log5-applog-hl.zijieapi.com
 log5-applog-lf.zijieapi.com
 mcs.zijieapi.com
 minigame5-normal-hl.zijieapi.com
@@ -5274,6 +5287,7 @@ zykwnj.cn
 zyskonex-ai.com
 zyskonex-pl.com
 foreign-ime-ad.zyukj6l.com
+zyxyfy.com
 zzrcz.com
 cfgc.zztfly.com
 log-auth.zztfly.com
