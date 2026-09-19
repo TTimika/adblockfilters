@@ -10,14 +10,15 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/09/19 11:15:43
-#!support=5272
+#!date=2026/09/19 20:17:55
+#!support=5264
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
 .img.0279.net
 .027dir.com
 .o.027eat.com
+.036e.cn
 .0575bbs.com
 .0597kk.com
 .087tqb.cn
@@ -93,6 +94,7 @@
 .music.httpdns.c.163.com
 .netapm.music.163.com
 .nex.163.com
+.online-logger.webapp.163.com
 .popme.163.com
 .r.mail.163.com
 .sentry.music.163.com
@@ -210,7 +212,6 @@
 .display.360totalsecurity.com
 .365dmp.com
 .adx.36kr.com
-.ad-ggtg-api.37.com.cn
 .mail1.371.net
 .37wan.com
 .m.38xs.com
@@ -337,7 +338,6 @@
 .trail.71baomu.com
 .bdcdncnc.inter.71edge.com
 .73336zubo25326.com
-.hollg8023.745c.cn
 .res1.76aca206c0e2134956dc03c144fe7ad2.com
 .1.78500.cn
 .79n4cubmu8.com
@@ -376,6 +376,7 @@
 .961.com
 .11.96131.com.cn
 .96382zubo66756.com
+.97sky.cn
 .9800.com
 .whfpbc.99.com.cn
 .9991.com
@@ -714,7 +715,6 @@
 .miui-fxcse.avlyun.com
 .sdkconf.avlyun.com
 .axbdlox.cn
-.bda1.ayule.net
 .azdxypf.cn
 .azu0jytzgm.com
 .api.applicationinsights.azure.cn
@@ -929,11 +929,11 @@
 .beizi.biz
 .smetrics.benefitcosmetics.com.cn
 .ads.bestads.com
+.a1.bestopview.com
 .betylife.com
 .a.bfking.cn
 .bfshan.cn
 .info.bgi.com
-.bhaoea.cn
 .bhpprfk.cn
 .app-posthog.bi-sage.site
 .bianxian.com
@@ -1058,7 +1058,6 @@
 .log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
 .quan-event-tracking.log-global.aliyuncs.com.w.cdngslb.com
 .sentry-io.djiops.com.w.cdngslb.com
-.sgtm.dhgate.com.cdngtm.com
 .httpdns.c.cdnhwc2.com
 .httpdns1.cc.cdnhwc5.com
 .ad.cdnjm.cn
@@ -1120,6 +1119,7 @@
 .bugly.chujingapp.com
 .tc.ci123.com
 .hpplay.cdn.cibn.cc
+.pl.cp31.ott.cibntv.net
 .vali-g1.cp31.ott.cibntv.net
 .yk-ssp-ad.cp31.ott.cibntv.net
 .ykad-data.cp31.ott.cibntv.net
@@ -1280,7 +1280,6 @@
 .daraz.com
 .marketing.net.daraz.lk
 .net.daraz.pk
-.sgtm.darryring.com
 .console.data4.net
 .gate.datacaciques.com
 .pv.datacaciques.com
@@ -1365,6 +1364,7 @@
 .events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 .grs-dbankcloud-com-dra.appacc.dbankedge.cn
 .grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
+.hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 .metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 .engine.dcad01.com
 .xcx.dcad01.com
@@ -1380,7 +1380,9 @@
 .app-log.dewu.com
 .dexinyi.cn
 .eu1-sentry.deyecloud.com
+.dfi09181kq.com
 .statistics.dfwsgroup.com
+.dgrj.com.cn
 .d.dgzj.com
 .dh5t3pyb6r.com
 .d1.dhgate.com
@@ -1460,9 +1462,7 @@
 .dotcounter.douyutv.com
 .dpjzzgw.cn
 .drdwy.com
-.sentry.dreambig.work
 .drivethelife.com
-.sentry-new.dsers.com
 .dspunion.com
 .analytics.dsyqt.com
 .dtsxn.cn
@@ -1652,11 +1652,6 @@
 .filei.top
 .fileshider.com
 .api.firwinds.site
-.fisios2-ratione42.sbs
-.fisios2-sed8.sbs
-.fisios2-ut42.sbs
-.fisios3-est7.sbs
-.fisios3-et25.sbs
 .fisios5-omnis94.sbs
 .fisios9-nisi75.sbs
 .fisios9-quaerat31.sbs
@@ -1757,7 +1752,6 @@
 .gdtimg.com
 .log.geetest.com
 .g.gegeyingshi.com
-.webanalytics.internet.genscript.com
 .image.gentags.com
 .code.geonamebase.com
 .geotargetly-1a441.appspot.com
@@ -1795,7 +1789,6 @@
 .sdk-cache.video.ptqy.gitv.tv
 .sdk.ptqy.gitv.tv
 .static.ptqy.gitv.tv
-.t7z.cupid.ptqy.gitv.tv
 .time.video.ptqy.gitv.tv
 .50m.gkcyc.com
 .gl0r6d2uyy.com
@@ -1891,7 +1884,6 @@
 .ra.gtimg.com
 .splashqqlive.gtimg.com
 .wa.gtimg.com
-.eu1-rum-openway.guance.com
 .rum-openway.guance.com
 .us1-rum-openway.guance.com
 .bd1.guancha.cn
@@ -1985,7 +1977,6 @@
 .cl-data-sg.ads.heytapmobi.com
 .cl-data.ads.heytapmobi.com
 .conf-cn.dc.heytapmobi.com
-.conf-eu.dc.heytapmobi.com
 .conf-in.dc.heytapmobi.com
 .conf-sg.dc.heytapmobi.com
 .darvin-ec.ads.heytapmobi.com
@@ -2047,7 +2038,6 @@
 .logservice1.hicloud.com
 .ads-dra.platform.hihonorcloud.com
 .ads-drcn.platform.hihonorcloud.com
-.ads-dre.platform.hihonorcloud.com
 .ads-drru.platform.hihonorcloud.com
 .grs.hihonorcloud.com
 .honorsearch-dra.hiboard.hihonorcloud.com
@@ -2070,7 +2060,6 @@
 .auth-eu.hismarttv.com
 .auth-launcher-em.hismarttv.com
 .auth-launcher-eu.hismarttv.com
-.auth-launcher-jp.hismarttv.com
 .auth-launcher-na.hismarttv.com
 .auth-launcher-sa.hismarttv.com
 .auth-na.hismarttv.com
@@ -2190,6 +2179,7 @@
 .metric.huya.com
 .qn-fileserverpcdn.cdn.huya.com
 .qn-hydlpcdn.cdn.huya.com
+.stat.wup.huya.com
 .statwup.huya.com
 .udblog.huya.com
 .va.huya.com
@@ -2204,12 +2194,14 @@
 .sdk.hzsanjiaomao.com
 .adashx.ut.hzshudian.com
 .h-adashx.ut.hzshudian.com
+.ad-collect.hzyoka.com
 .i-fk.cn
 .i12het785.com
 .ios-pclog.i4.cn
 .i6nnwepgm.com
 .gdl.i9dhjx.ru
 .www.iabchina.cn
+.stats.ibaotu.com
 .ibozys.cn
 .sensors.ibreader.com
 .busuanzi.ibruce.info
@@ -2291,7 +2283,6 @@
 .api-data-collection.insta360.cn
 .sentry-sg.insta360.com
 .instagram-e.com.cn
-.instagram-g.com.cn
 .cane.intel.cn
 .dogo.intel.cn
 .intely.cn
@@ -2422,7 +2413,6 @@
 .target.ads.jihuoniao.com
 .wuliao.jingyanben.com
 .adx-api.jinmo.tech
-.jiuyuntian3.cn
 .jknrwe.cn
 .jlwz.cn
 .jm3uvitq0.com
@@ -2516,7 +2506,6 @@
 .adsmart.konka.com
 .sdkapi.kookong.com
 .koowo.com
-.kouclo.com
 .a.koudai.com
 .wap.koudaitong.com
 .b.kouke5.com
@@ -2722,7 +2711,6 @@
 .track.libii.cn
 .lichunxiao.cn
 .liebaovip.com
-.log.liepin.com
 .www.limei.com
 .lindabella.shop
 .lingd.cn
@@ -2976,6 +2964,7 @@
 .emjs.mkzhan.com
 .mlstx.cn
 .da.mmarket.com
+.mmda-mayhulika-ph.com
 .tc.mnbvcxzq.com
 .mngjrn.cn
 .mnpbxjq.cn
@@ -2998,7 +2987,6 @@
 .ugc.moji001.com
 .cdn.moji002.com
 .cdn2.moji002.com
-.sentry-fe.mokahr.com
 .moodoo.com.cn
 .m.moomoo.com
 .ad.moonton.cn
@@ -3182,6 +3170,7 @@
 .api-access.pangolin-sdk-toutiao2.com
 .api-access.pangolin-sdk-toutiao3.com
 .api-access.pangolin-sdk-toutiao4.com
+.papa91.com
 .ads-monitoring.papegames.com
 .analytics.partnerboost.com
 .app.partnerboost.com
@@ -3233,6 +3222,7 @@
 .load.tbyvvwvv.plasmatreatment.cn
 .play-analytics.com
 .bdx.playnext.cn
+.plrituals.shop
 .pmensrl.cn
 .pmvlwjy.cn
 .1.pncdn.cn
@@ -3570,6 +3560,7 @@
 .log.flight.qunar.com
 .qreport.qunar.com
 .userimg.qunar.com
+.qutaovip.com
 .vn-ebay.quxlpuj.cn
 .api.qvpublish.com
 .msg.qy.net
@@ -3593,6 +3584,7 @@
 .v5-se-ex-mc-reading-ad.qznovelvod.com
 .v5-se-gddgtc-reading-ad.qznovelvod.com
 .v5-se-sjy-daily-reading-ad.qznovelvod.com
+.v6-daily-reading-ad.qznovelvod.com
 .v6-reading-ad.qznovelvod.com
 .v9-reading-ad.qznovelvod.com
 .v95-aw-reading-ad.qznovelvod.com
@@ -3693,7 +3685,6 @@
 .smetrics.schindler.cn
 .scjpqut.cn
 .sckexing.cn
-.sckfcn.cn
 .statscollector.sd-rtn.com
 .sd6hon.cn
 .sdhuawen.cn
@@ -3732,6 +3723,7 @@
 .ad.shunchangzhixing.com
 .js.shunqi.com
 .shuzilm.cn
+.ads-monitoring.shziyi.com
 .sigmob.com
 .smetrics.marketing.signify.com.cn
 .silna-notownica.net
@@ -3928,6 +3920,7 @@
 .roi.soulapp.cn
 .sgg.southcn.com
 .cod.southmoney.com
+.spinexpo.cn
 .spitishops.shop
 .spst2.com
 .srbzw.cn
@@ -4155,6 +4148,7 @@
 .trail.thomsonreuters.cn
 .ad.thsi.cn
 .tracking.mail.ti.com.cn
+.tianji520.cn
 .tianjimedia.com
 .tianmidian.com
 .tianmu.mobi
@@ -4257,6 +4251,7 @@
 .m.txtxr.com
 .ty.cn
 .tylerfoster.shop
+.u2419.cn
 .u7u9.com
 .u88.cn
 .log.ubianet.com
@@ -4337,7 +4332,6 @@
 .adsoss.uqualities.com
 .uqz.com
 .uri6.com
-.urlqh.cn
 .stats.us-light-edge.com
 .ushaqi.com
 .gyqpyr.utsource.net
@@ -4737,7 +4731,6 @@
 .pvx.xcar.com.cn
 .zio.xcar.com.cn
 .analytics.xdiarys.com
-.analytics2.xdiarys.com
 .stat.xdplt.com
 .xdrig.com
 .xerhibx.cn
@@ -4747,9 +4740,10 @@
 .imp.xgo.com.cn
 .stat.xgo.com.cn
 .collector1.xhamster.com
+.ad.xhey.top
 .ad-server.xhgamesdk.com
 .xhkvff.cn
-.ads-i1.xhscdn.com
+.ads-hera-s1.xhscdn.com
 .ads-i10.xhscdn.com
 .ads-i2.xhscdn.com
 .ads-i3.xhscdn.com
@@ -4761,7 +4755,6 @@
 .ads-leona-s1.xhscdn.com
 .ads-video-al.xhscdn.com
 .ads-video-qc.xhscdn.com
-.ads-vp5.xhscdn.com
 .xhyktech.com
 .cdn.xianchengyou.com
 .cdn.xianliao.me
@@ -5145,7 +5138,6 @@
 .saad.ms.zhangyue.net
 .smad.ms.zhangyue.net
 .zhanzhang.net
-.www.zhaohainan.cn
 .mg09.zhaopin.com
 .slotabrosdev.zharev.com
 .slotabrosuat.zharev.com
