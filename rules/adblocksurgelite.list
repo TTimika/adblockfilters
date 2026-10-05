@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/05 03:12:46
-#!support=5497
+#!date=2026/10/05 12:12:14
+#!support=5498
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -1069,6 +1069,7 @@
 .stratus.campaign-image.com.cn
 .zc1.campaign-view.com.cn
 .count.candou.com
+.canjearppuntos.click
 .telemetry.canva.cn
 .caomeixz7.xyz
 .baidu1.cardbaobao.com
