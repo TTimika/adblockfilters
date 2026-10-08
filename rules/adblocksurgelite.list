@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/08 12:38:45
-#!support=5535
+#!date=2026/10/08 23:14:24
+#!support=5548
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -26,7 +26,6 @@
 .0dy3evz6x.com
 .0otmh22aj2.com
 .0wk6gdkg8r.com
-.0x2beace.com
 .0xr7ii3df.com
 .10000xing.cn
 .1717.1000uc.com
@@ -46,12 +45,10 @@
 .123cha.com
 .bdad.123pan.cn
 .ent1.12584.cn
-.126.cn
 .analytics.126.com
 .ir.mail.126.com
 .ads.music.126.net
 .api-sentry.ws.126.net
-.cstaticdun.126.net
 .iadmusicmat.music.126.net
 .iadmusicmatvideo.music.126.net
 .img1.126.net
@@ -366,7 +363,6 @@
 .7dot.cn
 .count.7m.com.cn
 .7moor.com
-.cdn.7nsc.cn
 .7s7bvoungt.com
 .7s8z7w24u.com
 .cp.7y7.com
@@ -1076,7 +1072,6 @@
 .stratus.campaign-image.com.cn
 .zc1.campaign-view.com.cn
 .count.candou.com
-.canjearppuntos.click
 .telemetry.canva.cn
 .caomeixz7.xyz
 .baidu1.cardbaobao.com
@@ -1088,6 +1083,7 @@
 .cb07whvmx.com
 .cbh.hl.cn
 .cbhzxctgm.com
+.www.cc4008001935.cn
 .adv.ccb.com
 .ad.ccement.com
 .mtrace.ysp.cctv.cn
@@ -1195,6 +1191,7 @@
 .log-api.cli.im
 .bd1.click.com.cn
 .clicki.cn
+.7xi9g1.com1.z0.glb.clouddn.com
 .bkt.clouddn.com
 .advertise.cloudlinks.cn
 .log.cmbchina.com
@@ -1212,10 +1209,6 @@
 .log2.cmpassport.com
 .cmpxaup.cn
 .ggx.cmvideo.cn
-.cn-feed-whatsapp.com.cn
-.cn-gui-whatsapp.com.cn
-.cn-peer-whatsapp.com.cn
-.cn-ping-whatsapp.com.cn
 .cnaa123.com
 .ad-api.cnblogs.com
 .analytics.cnblogs.com
@@ -1350,6 +1343,7 @@
 .daraz.com
 .marketing.net.daraz.lk
 .net.daraz.pk
+.darm.cn
 .dashantechan.cn
 .console.data4.net
 .gate.datacaciques.com
@@ -1401,6 +1395,7 @@
 .weather-community-drcn.weather.dbankcloud.cn
 .adx-dra.op.dbankcloud.com
 .adx-dre.op.dbankcloud.com
+.adx-drru.op.dbankcloud.com
 .connect-dra.map.dbankcloud.com
 .dnkeeper.dbankcloud.com
 .dnkeeper.platform.dbankcloud.com
@@ -1463,6 +1458,7 @@
 .sentry.dhgate.com
 .sgtm.dhgate.com
 .dhgdp.cn
+.diannaodian.com
 .catfront.dianping.com
 .dianru.com
 .ad.didi-food.com
@@ -1566,6 +1562,7 @@
 .stats.v.duowan.com
 .vupload.duowan.com
 .sentry.duozhuayu.net
+.adsmis.duxiaoman.com
 .analytics-api.dvdfab.cn
 .servo-report.dvdfab.cn
 .dvtednm.cn
@@ -1622,6 +1619,7 @@
 .officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev
 .ofornaogu-dpzv6dife1hh.edgeone.dev
 .profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+.sriramnwar-dpoae04723lz.edgeone.dev
 .webmaprocessinh-dpbehei5spwx.edgeone.dev
 .wwwww-dpe7gpnooou7.edgeone.dev
 .logger.eeo.cn
@@ -1802,7 +1800,6 @@
 .stat.funshion.com
 .stat.funshion.net
 .love.furenkeji.com
-.furniture-store.shop
 .trk.futureelectronics.cn
 .fwmbjrl.cn
 .dmym.fwol.cn
@@ -1823,6 +1820,8 @@
 .ad.gameley.com
 .ab3de9.gamersky.com
 .click.gamersky.com
+.ja.gamersky.com
+.ja1.gamersky.com
 .ja2.gamersky.com
 .pc-util.gamersky.com
 .wmbd.gamersky.com
@@ -2161,6 +2160,7 @@
 .analytics.shop.hisense.com
 .api-4know-em.hismarttv.com
 .api-gps.hismarttv.com
+.api-gps-em.hismarttv.com
 .api-gps-eu.hismarttv.com
 .api-launcher-eu.hismarttv.com
 .api-launcher-na.hismarttv.com
@@ -2213,6 +2213,7 @@
 .adadmin.house365.com
 .ads.house365.com
 .stat.house365.com
+.housedeal-eu.shop
 .abtest-api-data-sg.hoyoverse.com
 .ad-log-upload-os.hoyoverse.com
 .apm-log-upload-os.hoyoverse.com
@@ -2558,6 +2559,7 @@
 .jpush.cn
 .jpush.io
 .jpushoa.com
+.jqfuser.icu
 .jrltdiu.cn
 .jrq39d1r8.com
 .ad.jschina.com.cn
@@ -2933,6 +2935,8 @@
 .mbai.cn
 .mbaobao.com
 .tracking.mcdonalds.com.cn
+.matomo.mdjpxw.com
+.umami.mdjpxw.com
 .bidder.mdspinc.com
 .lepodownload.mediatek.com
 .mepodownload.mediatek.com
@@ -3118,7 +3122,6 @@
 .emjs.mkzhan.com
 .mlstx.cn
 .da.mmarket.com
-.mmda-mayhulika-ph.com
 .mmdamayhulikaph.com
 .mmkkiivv.com
 .tc.mnbvcxzq.com
@@ -3768,7 +3771,7 @@
 .v5-bd-daily-reading-ad.qznovelvod.com
 .v5-ex-reading-ad.qznovelvod.com
 .v5-reading-ad.qznovelvod.com
-.v5-se-bjtc-reading-ad.qznovelvod.com
+.v5-se-ex-mc-reading-ad.qznovelvod.com
 .v5-se-gddgtc-reading-ad.qznovelvod.com
 .v5-se-sjy-daily-reading-ad.qznovelvod.com
 .v6-daily-reading-ad.qznovelvod.com
@@ -3860,6 +3863,7 @@
 .hub5pn.wap.sandai.net
 .hub5pnc.sandai.net
 .hub5u.sandai.net
+.hubstat.sandai.net
 .idx.m.hub.sandai.net
 .master.wap.dphub.sandai.net
 .mcfg.sandai.net
@@ -4035,6 +4039,7 @@
 .mon.snssdk.com
 .open.snssdk.com
 .pangolin.snssdk.com
+.sdfp.snssdk.com
 .stream.snssdk.com
 .tnc3-aliec2.snssdk.com
 .tnc3-alisc1.snssdk.com
@@ -4065,6 +4070,7 @@
 .api.tv.sohu.com
 .assp.sohu.com
 .bd.hd.sohu.com
+.changyan.sohu.com
 .click2.hd.sohu.com
 .count.vrs.sohu.com
 .ctr.hd.sohu.com
@@ -4094,6 +4100,7 @@
 .gg.sonhoo.com
 .sc.sonystyle.com.cn
 .soorbka.cn
+.sorituals.shop
 .bd1.sosg.net
 .dr.soso.com
 .jzclick.soso.com
@@ -4514,6 +4521,7 @@
 .unionli.com
 .unionsy.com
 .cdp.cloud.unity.cn
+.metrics2.unity.cn
 .cdn.iads.unitychina.cn
 .unityads.unitychina.cn
 .b.unjs.com
@@ -4555,6 +4563,7 @@
 .log.apk.v-mate.mobi
 .v-vay.com
 .1.v-x.com.cn
+.uu.v2raynapps.com.cn
 .ad.v3mh.com
 .ads.v3mh.com
 .www.v61.com
@@ -4658,6 +4667,7 @@
 .cname-in-apport-stsdk.vivoglobal.com
 .cname-in-bom01-nginxpool03.vivoglobal.com
 .cname-sin01-stsdk09.vivoglobal.com
+.co-cota.vivoglobal.com
 .co-domaincfg.vivoglobal.com
 .co-onrt-stsdk.vivoglobal.com
 .co-ort-stsdk.vivoglobal.com
@@ -5092,6 +5102,7 @@
 .adse.ximalaya.com
 .adse.test.ximalaya.com
 .adse.wsa.ximalaya.com
+.adwbs.ximalaya.com
 .linkeye.ximalaya.com
 .location.ximalaya.com
 .mobwsa.ximalaya.com
@@ -5175,6 +5186,7 @@
 .xzswn87hm.com
 .bmjs.xzw.com
 .y6a7ap3io3.com
+.adserver.yaboo.com
 .image.yafytg.cn
 .yahekby.cn
 .advertising.yahoo.com
@@ -5329,6 +5341,7 @@
 .yw800.com.cn
 .ywkkmze.cn
 .adsclick.yx.js.cn
+.qiniuyunxz.yxflzs.com
 .ad.a.yximgs.com
 .ali-ad.a.yximgs.com
 .ali-p2p-v2.pull.yximgs.com
@@ -5376,7 +5389,6 @@
 .zakladybolslkzs.homes
 .zakladybolslkzw.homes
 .zakladykspl.shop
-.zakladyspl.shop
 .zamplus.com
 .zantainet.com
 .zazhipu.com
@@ -5408,6 +5420,7 @@
 .zhflodsix.cn
 .zhidian3g.cn
 .pv.zhiding.cn
+.zhigao5191.com
 .adstatic.zhihu.com
 .crash2.zhihu.com
 .event.zhihu.com
